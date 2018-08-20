@@ -8,8 +8,6 @@ source('summarize_flunet.R')
 source('colors.R')
 library(tidyverse)
 
-setwd('../')
-
 normalize = function(x){
   return(x/sum(x, na.rm=T))
 }
@@ -31,12 +29,12 @@ plot_themes  = 	theme_classic() +
         panel.border = element_rect(colour = "black", fill=NA, size=1),
         axis.line = element_blank())
 
-vac = read.csv('data/vaccines.csv') %>%
+vac = read.csv('../data/vaccines.csv') %>%
   mutate(season = substr(season, 1,4)) %>%
   select(season, B.lineage)
 
 ###### B ANALYSIS
-b_data = read_csv('data/b_data.csv') %>% group_by(season, location, lineage) %>%
+b_data = read_csv('../data/b_data.csv') %>% group_by(season, location, lineage) %>%
   merge(vac) %>%
   mutate(match = if_else(substr(lineage, 1,3) == B.lineage, 'matched', 'unmatched')) %>%
   select(season, location, match, counts) %>% 
@@ -51,7 +49,7 @@ gisaid_summary = ggplot(b_data %>% gather('lineage', 'counts', matched, unmatche
   xlab('Season') + ylab('Counts') +
   theme(legend.position = 'bottom')
 
-save_plot('plots/gisaid_b.pdf', gisaid_summary, base_aspect_ratio=1.4)
+save_plot('../plots/gisaid_b.pdf', gisaid_summary, base_aspect_ratio=1.4)
 
 b_data = b_data %>% gather(key = 'lineage', value = 'counts', matched, unmatched) %>%
   group_by(location, season) %>%
@@ -104,4 +102,4 @@ expect_plot = ggplot(data.frame(x=c(1,3), y=c(.5,.5)), aes(x=x, y=y)) +
 
 ratio_plot = plot_grid(expect_plot, a, ncol=1, rel_heights = c(.25,1))
 
-save_plot('plots/b_summary.pdf', ratio_plot, base_aspect_ratio = .9)
+save_plot('../plots/b_summary.pdf', ratio_plot, base_aspect_ratio = .9)

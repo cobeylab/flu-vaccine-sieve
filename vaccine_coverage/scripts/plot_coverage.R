@@ -3,8 +3,6 @@ library(cowplot)
 library(RColorBrewer)
 library(wpp2017)
 
-setwd('../')
-
 labelseason = function(x){
   return(str_c(x, '-', substr(as.numeric(x) + 1,3,4)))
 }
@@ -24,7 +22,6 @@ get_pop = function(countries){
   names(pop_sizes) = c('country','census_year','pop')
   return(pop_sizes)
 }
-
 
 textSize = 10
 plot_themes  = 	theme_classic() +
@@ -105,4 +102,4 @@ b =
 coverage_summ = plot_grid(a, b, labels='AUTO', nrow=2)
 
 
-save_plot('plots/coverage_summary.pdf',coverage_summ, base_aspect_ratio = 1.1, base_height=7)
+save_plot('../plots/coverage_summary.pdf',coverage_summ, base_aspect_ratio = 1.1, base_height=7)

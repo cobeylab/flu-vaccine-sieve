@@ -1,6 +1,8 @@
 library(tidyverse)
 library(cowplot)
 
+setwd('../')
+
 textSize = 10
 plot_themes  = 	theme_classic() +
   theme(axis.ticks = element_line(size=.5, color = 'black'),
@@ -32,7 +34,7 @@ coverages = seq(0,1, length=100)
 k.h3.b = (1-h3ve*coverages)/(1-bve*coverages)
 k.h3.h1 = (1-h3ve*coverages)/(1-h1ve*coverages)
 
-mean_ratio = data_frame(coverage, k.h3.b, k.h3.h1) %>%
+mean_ratio = data_frame(coverage=coverages, k.h3.b, k.h3.h1) %>%
   rename('H3N2 to B' = 'k.h3.b', 'H3N2 to H1N1' = 'k.h3.h1') %>%
   gather(key = subtypes, value = ratio, -coverage)
 
@@ -40,14 +42,15 @@ points = mean_ratio %>% filter(round(coverage,2) == .14 | round(coverage,2) == .
 
 expect = ggplot(mean_ratio, aes(x=coverage, y = ratio, color = subtypes)) + 
   geom_line(alpha = .7,size=.3) +
-  ylab('Expected ratio of subtypes') +
+  ylab('Expected ratio') +
   xlab('Vaccine coverage') +
   scale_color_brewer(palette='Set1') + plot_themes +
   geom_point(data = points) + 
   geom_path(data = points, aes(group = subtypes), lty = 2) +
   geom_vline(data = points, aes(xintercept = coverage), color = 'black', alpha=.7) +
   annotate(geom='text', angle = 90, label = 'Europe', x=.08, y = 1.4) +
-  annotate(geom='text', angle = 90, label = 'United States', x=.48, y = 1.8)
+  annotate(geom='text', angle = 90, label = 'United States', x=.48, y = 1.8) +
+  theme(legend.title = element_blank())
 
 
 save_plot('plots/theory.pdf', expect, base_aspect_ratio=1.5, base_height =3)

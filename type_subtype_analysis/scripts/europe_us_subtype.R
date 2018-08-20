@@ -9,10 +9,8 @@ source('summarize_flunet.R')
 source('colors.R')
 library(tidyverse)
 
-setwd('../')
-
 get_ili = function(){
-  data = read_csv('../surveillance_data/ili_summary.csv')
+  data = read_csv('../../surveillance_data/ili_summary.csv')
   data = assign_season(data) %>%
     group_by(country, season) %>%
     dplyr::summarise(flu_proxy = mean(flu_proxy_incidence, na.rm=T))
@@ -55,7 +53,7 @@ plot_themes  = 	theme_classic() +
         axis.line = element_blank())
 
 get_flunet = function(){
-  data = read_csv('data/flunet_seasonal.csv') %>%
+  data = read_csv('../data/flunet_seasonal.csv') %>%
     mutate(subtype = toupper(subtype)) %>%
     spread(subtype, counts) %>%
     mutate(total = B+H1N1+H3N2)
@@ -140,14 +138,15 @@ flunet_eur_us = ggplot(data %>% mutate(subtype = toupper(subtype)), aes(x=str_c(
   scale_fill_brewer(palette='Dark2') +
   xlab('Season') + ylab('Counts') +
   theme(legend.position = 'bottom')
-save_plot('plots/flunet_eur_us_5seasons.pdf', flunet_eur_us, base_aspect_ratio=1.4)
+save_plot('../plots/flunet_eur_us_5seasons.pdf', flunet_eur_us, base_aspect_ratio=1.4)
+
 ili_eur_us = ggplot(ili_data, aes(x=str_c(season, '-',substr(as.numeric(season)+1,3,4)), y = flu_proxy)) +
   theme(axis.text.x = element_text(angle = 45, hjust = 1)) +
   geom_line(aes(group = location)) + 
   facet_wrap(~location, scales = 'free_y') +
   xlab('Season') + ylab('Influenza intensity') +
   theme(legend.position = 'bottom')
-save_plot('plots/ili_eur_us_5seasons.pdf', ili_eur_us, base_aspect_ratio=1.4)
+save_plot('../plots/ili_eur_us_5seasons.pdf', ili_eur_us, base_aspect_ratio=1.4)
 
 
 data = data %>%  merge(ili_data) %>%
@@ -156,13 +155,6 @@ data = data %>%  merge(ili_data) %>%
   summarise(freq = sum(freq*normalized_flu_proxy), err = sum((err*normalized_flu_proxy)^2)^.5) %>%
   ungroup() 
 
-
-# ggplot(data %>% mutate(subtype = toupper(subtype)), aes(x=subtype, y=freq, fill = subtype)) + 
-#   geom_bar(stat='identity') +
-#   geom_errorbar(aes(ymin = freq-err, ymax = freq+err), width = .5) +
-#   facet_wrap(~location) + 
-#   scale_fill_brewer(palette = 'Dark2') +
-#   ylab('Frequency') + xlab('Subtype')
 data_wide = data %>% mutate(err = round(err,5)) %>% spread(subtype, freq) %>%
   mutate(h3b = h3n2/b,
          h3h1 = h3n2/h1n1,
@@ -201,5 +193,5 @@ ratio_row = plot_grid(a, b, nrow = 1)#labels='AUTO', nrow=1)
 expectation_row = plot_grid(expect_plot, expect_plot, nrow = 1, labels='AUTO')
 ratio_plot = plot_grid(expectation_row, ratio_row, ncol=1, rel_heights = c(.25,1))
 
-save_plot('plots/us_europe_subtype.pdf',ratio_plot,base_aspect_ratio = 1.5)
+save_plot('../plots/us_europe_subtype.pdf',ratio_plot,base_aspect_ratio = 1.5)
 

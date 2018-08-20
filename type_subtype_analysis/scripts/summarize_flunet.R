@@ -38,12 +38,12 @@ assign_season = function(data, south = NULL){
 }
 
 summarize_flunet = function(south_timing){
-  file_list = dir(path = '../surveillance_data/flunet_samples/', pattern = '*.csv')
+  file_list = dir(path = '../../surveillance_data/flunet_samples/', pattern = '*.csv')
   file_list = file_list[file_list!='europe_flunet.csv']
   #file_list = c('australia', 'canada', 'china','us','germany','portugal','france','romania','poland','italy')
   #file_list = c('australia', 'canada', 'china','us','europe')
   
-  files = str_c('../surveillance_data/flunet_samples/', file_list)
+  files = str_c('../../surveillance_data/flunet_samples/', file_list)
   
   data_orig = vector('list', length(files))
   for(i in 1:length(files)){
@@ -65,7 +65,7 @@ summarize_flunet = function(south_timing){
            bvic = bvictoria) %>%
     assign_season(south_timing) %>%
     select(country, season, week, h1, h3, b, byam, bvic)
-  write_csv(flunet_data, 'data/flunet_weekly.csv')
+  write_csv(flunet_data, '../data/flunet_weekly.csv')
   
   flunet_data = flunet_data %>%
     group_by(season, country) %>%
@@ -76,6 +76,6 @@ summarize_flunet = function(south_timing){
               bvic = sum(bvic, na.rm=T)) %>%
     gather(key=subtype, value = counts, h1n1, h3n2, b, byam, bvic) %>%
     mutate(source = 'flunet')
-  write_csv(flunet_data, 'data/flunet_seasonal.csv')
+  write_csv(flunet_data, '../data/flunet_seasonal.csv')
   
 }

@@ -1,8 +1,6 @@
 library(tidyverse)
 library(cowplot)
 
-setwd('../')
-
 textSize = 12
 plot_themes  =	theme_classic() +
   theme(axis.ticks = element_line(size=.5, color = 'black'),
@@ -45,14 +43,14 @@ calc_ve_means = function(data){
   return(out)
 }
 
-cadata = read_csv('data/ve_summary_revised.csv')  %>%
+cadata = read_csv('../data/ve_summary_revised.csv')  %>%
   filter(country == 'Canada') %>%
   format_season %>%
   filter(interpolated == 'FALSE') %>%
   select(season,subtype, VE, lowerCI, upperCI) %>% mutate(location = 'Canada')
-eurdata = read_csv('data/eur_ve.csv') %>%   select(season,subtype, VE, lowerCI, upperCI) %>% mutate(location = 'Europe')
-usdata = read_csv('data/us_ve.csv') %>%   select(season,subtype, VE, lowerCI, upperCI) %>% mutate(location = 'United States')
-audata =  read_csv('data/auve.csv')  %>% select(season,subtype, VE, lowerCI, upperCI) %>% mutate(location = 'Australia')
+eurdata = read_csv('../data/eur_ve.csv') %>%   select(season,subtype, VE, lowerCI, upperCI) %>% mutate(location = 'Europe')
+usdata = read_csv('../data/us_ve.csv') %>%   select(season,subtype, VE, lowerCI, upperCI) %>% mutate(location = 'United States')
+audata =  read_csv('../data/auve.csv')  %>% select(season,subtype, VE, lowerCI, upperCI) %>% mutate(location = 'Australia')
 
 allvedata = rbind(cadata,eurdata,usdata,audata) %>%
   filter(as.numeric(substr(season,1,4)) > 2008) %>%
@@ -67,7 +65,7 @@ ve_ca_plot = ggplot(cadata %>% filter(!is.na(VE), season !='2005-06') , aes(x=se
   theme(axis.text.x = element_text(angle=45, hjust = 1)) +
   scale_color_brewer(palette = "Dark2",  name = 'Type/subtype') 
 
-save_plot('plots/ve_canada.pdf',ve_ca_plot, base_aspect_ratio = 1.4)
+save_plot('../plots/ve_canada.pdf',ve_ca_plot, base_aspect_ratio = 1.4)
 
 ve_plot = ggplot(allvedata %>% filter(!is.na(VE)) , aes(x=season, y= VE, color = subtype)) + 
   geom_point(position = position_dodge(width = 0.5)) + 
@@ -80,25 +78,25 @@ ve_plot = ggplot(allvedata %>% filter(!is.na(VE)) , aes(x=season, y= VE, color =
   coord_cartesian(ylim = c(-100,100))  +
   xlab('Season')
 
-save_plot('plots/ve.pdf',ve_plot, base_aspect_ratio =3, base_height=3.5)
+save_plot('../plots/ve.pdf',ve_plot, base_aspect_ratio =3, base_height=3.5)
 
-ca_vemeans = read_csv('data/ve_summary_revised.csv')  %>% 
+ca_vemeans = read_csv('../data/ve_summary_revised.csv')  %>% 
   filter(country == "Canada", as.numeric(substr(season, 1,4))> 2008, interpolated == FALSE) %>%
   calc_ve_means() %>%
   mutate(location = "Canada")
             
-us_vemeans = read_csv('data/us_VE.csv') %>%
+us_vemeans = read_csv('../data/us_VE.csv') %>%
   filter(as.numeric(substr(season, 1,4))> 2008) %>%  
   calc_ve_means() %>%
   mutate(location = "United States")
 
-au_vemeans = read_csv('data/auve.csv') %>%
+au_vemeans = read_csv('../data/auve.csv') %>%
   mutate(lowerCI = as.numeric(lowerCI)) %>%
   filter(as.numeric(season)> 2008) %>%
   calc_ve_means() %>%
   mutate(location = "Australia")
 
-eur_vemeans = read_csv('data/eur_ve.csv') %>%
+eur_vemeans = read_csv('../data/eur_ve.csv') %>%
   mutate(lowerCI = as.numeric(lowerCI)) %>%
   calc_ve_means() %>%
   mutate(location = "Europe")
@@ -112,7 +110,7 @@ vemeans = ggplot(all_vemeans, aes(x = location, y = logVEbar*100, color = subtyp
   geom_text(aes(label = n, y=90), position = position_dodge(width = .5), show.legend = FALSE) +
   ylim(-10, 100) +
   xlab('Location') + ylab('Average VE') + plot_themes  
-save_plot('plots/ve_means.pdf',vemeans, base_aspect_ratio =3, base_height = 2.5)
+save_plot('../plots/ve_means.pdf',vemeans, base_aspect_ratio =3, base_height = 2.5)
 
 calc_vf_means_byseason = function(data){
   out = data %>%
@@ -153,7 +151,7 @@ calc_vf_means = function(data){
            logU = 1-exp(logU))
   return(out)
 }
-vfmeans = read_csv('data/vf.csv') %>%
+vfmeans = read_csv('../data/vf.csv') %>%
   mutate(lowerCI = as.numeric(lowerCI)) %>%
   calc_vf_means_byseason() 
 vfmean_summ = vfmeans %>% calc_vf_means()
@@ -163,4 +161,4 @@ ve_summary = rbind(ca_vemeans %>% mutate(country='Canada'), au_vemeans %>% mutat
   rename(VE = logVEbar,
          lowerCI = logL,
          upperCI = logU)
-write_csv(ve_summary,'data/ve_summary.csv')
+write_csv(ve_summary,'../data/ve_summary.csv')

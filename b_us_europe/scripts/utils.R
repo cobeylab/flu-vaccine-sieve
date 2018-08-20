@@ -85,7 +85,7 @@ get_data = function(files){
 }
 
 get_ili = function(){
-  data = read_csv('data/ili_summary.csv')
+  data = read_csv('../data/ili_summary.csv')
   data = assign_season(data) %>%
     group_by(country, season) %>%
     dplyr::summarise(flu_proxy = mean(flu_proxy_incidence, na.rm=T))

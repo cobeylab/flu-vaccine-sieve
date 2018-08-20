@@ -9,7 +9,7 @@ normalize = function(x){
 
 get_vc = function(countries = NULL){
   #countries_tokeep = c('United States', 'China', 'Australia', 'Canada', 'Italy')
-  vc = read_csv('data/coverage.csv') %>%
+  vc = read_csv('../data/coverage.csv') %>%
     mutate(coverage = coverage/100) 
   
   if(!is.null(countries)){
@@ -22,7 +22,7 @@ get_vc = function(countries = NULL){
 
 get_ve = function(){
   
-  ve = read_csv('data/ve_summary.csv') %>%
+  ve = read_csv('../data/ve_summary.csv') %>%
     mutate(hemisphere = ifelse(country == 'Canada', 'north', 'south')) %>%
     select(subtype, VE, country, hemisphere) %>%
     spread(subtype, VE) %>%

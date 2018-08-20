@@ -9,10 +9,8 @@ source('summarize_flunet.R')
 source('colors.R')
 library(tidyverse)
 
-setwd('../')
-
 get_ili = function(){
-  data = read_csv('../surveillance_data/ili_summary.csv')
+  data = read_csv('../../surveillance_data/ili_summary.csv')
   data = assign_season(data) %>%
     group_by(country, season) %>%
     dplyr::summarise(flu_proxy = mean(flu_proxy_incidence, na.rm=T))
@@ -55,7 +53,7 @@ plot_themes  = 	theme_classic() +
         axis.line = element_blank())
 
 get_flunet = function(){
-  data = read_csv('data/flunet_seasonal.csv') %>%
+  data = read_csv('../data/flunet_seasonal.csv') %>%
     mutate(subtype = toupper(subtype)) %>%
     spread(subtype, counts) %>%
     mutate(total = B+H1N1+H3N2)
@@ -121,7 +119,7 @@ flunet_plot = ggplot(flunet_data %>% mutate(subtype = toupper(subtype)), aes(x=s
   xlab('Season') + ylab('Counts') +
   theme(legend.position = 'bottom')
   
-save_plot('plots/flunet_summary.pdf', flunet_plot, base_height=12, base_aspect_ratio=1)
+save_plot('../plots/flunet_summary.pdf', flunet_plot, base_height=12, base_aspect_ratio=1)
 
 ili_data = get_ili() %>% filter(!country %in% exclude_countries, season %in% SEASONS) %>%
   group_by(country) %>%
@@ -141,7 +139,8 @@ flunet_weighted_plot = ggplot(data_weighted %>% filter(country %in% weighted_cou
   scale_fill_brewer(palette='Dark2') +
   xlab('Season') + ylab('Influenza intensity-weighted frequency') +
   theme(legend.position = 'bottom')
-save_plot('plots/flunet_season_weighted.pdf', flunet_weighted_plot, base_height = 8, base_aspect_ratio=1.2)
+
+save_plot('../plots/flunet_season_weighted.pdf', flunet_weighted_plot, base_height = 8, base_aspect_ratio=1.2)
 
 data = merge(data_orig, ili_data) %>%
   dplyr::group_by(country,subtype) %>%
@@ -212,7 +211,7 @@ coverage_ratio = plot_grid(a + theme(legend.position = 'none'), b + theme(legend
 legend = get_legend(a + theme(legend.position="bottom"))
 out = plot_grid(coverage_ratio, legend, ncol=1, rel_heights = c(1,.4))
 
-save_plot(str_c('plots/coverage_ratio.pdf'),out, base_aspect_ratio = 1.5, base_height = 4)
+save_plot(str_c('../plots/coverage_ratio.pdf'),out, base_aspect_ratio = 1.5, base_height = 4)
 
 h3b_test = cor.test(data$coverage, data$h3n2/data$b, method = 'pearson')
 h3h1_test = cor.test(data$coverage, data$h3n2/data$h3h1, method = 'pearson')
@@ -254,7 +253,7 @@ expectation_ratio = plot_grid(a + theme(legend.position = 'none'), b + theme(leg
 legend = get_legend(a + theme(legend.position="bottom"))
 out = plot_grid(expectation_ratio, legend, ncol=1, rel_heights = c(1,.4))
 
-save_plot('plots/expectation_ratio.pdf',out, base_aspect_ratio = 1.5, base_height=4)
+save_plot('../plots/expectation_ratio.pdf',out, base_aspect_ratio = 1.5, base_height=4)
 
 h3b_test = cor.test(data$h3b_hat, (data$h3n2/data$b), method = 'pearson')
 h3h1_test = cor.test(data$h3h1_hat, (data$h3n2/data$h3h1), method = 'pearson')
