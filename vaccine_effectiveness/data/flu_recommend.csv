@@ -1,0 +1,69 @@
+Country,season,0.5,2,4,5,11,12,18,50,55,60,65
+Austria,2014-15,,,,,,,R,R,R,R,R
+Austria,2007-08,,,,,,,R,R,R,R,R
+Belgium,2014-15,,,,,,,,R,,,R
+Belgium,2007-08,,,,,,,,R,,,R
+Bulgaria,2014-15,,,,,,,,,,,R
+Bulgaria,2007-08,,,,,,,,,,,
+Croatia,2014-15,,,,,,,,,,,R
+Croatia,2007-08,,,,,,,,,,,
+Cyprus,2014-15,,,,,,,,,,,R
+Cyprus,2007-08,,,,,,,,,,,R
+Czechia,2014-15,,,,,,,,,,,R
+Czechia,2007-08,,,,,,,,,,,R
+Denmark,2014-15,,,,,,,,,,,R
+Denmark,2007-08,,,,,,,,,,,R
+Estonia,2014-15,,,,,,,R,R,R,R,R
+Estonia,2007-08,,,,,,,R,R,R,R,R
+Finland,2014-15,R,R,,,,,,,,,R
+Finland,2007-08,R,R,,,,,,,,,R
+France,2014-15,,,,,,,,,,,R
+France,2007-08,,,,,,,,,,,R
+Germany,2014-15,,,,,,,,,,R,R
+Germany,2007-08,,,,,,,,,,R,R
+Greece,2014-15,,,,,,,,,,R,R
+Greece,2007-08,,,,,,,,,,R,R
+Hungary,2014-15,,,,,,,,,,R,R
+Hungary,2007-08,,,,,,,,,,,R
+Iceland,2014-15,,,,,,,,,,R,R
+Iceland,2007-08,,,,,,,,,,R,R
+Ireland,2014-15,,,,,,,,R,R,R,R
+Ireland,2007-08,,,,,,,,R,R,R,R
+Italy,2014-15,,,,,,,,,,,R
+Italy,2007-08,,,,,,,,,,,R
+Latvia,2014-15,R,,,,,,,,,,R
+Latvia,2007-08,R,,,,,,,,,,R
+Liechtenstein,2014-15,,,,,,,,,,,R
+Liechtenstein,2007-08,,,,,,,,,,,
+Lithuania,2014-15,,,,,,,,,,,R
+Lithuania,2007-08,,,,,,,,,,,R
+Malta,2014-15,R,R,R,,,,,,R,R,R
+Malta,2007-08,,,,,,,,,R,R,R
+Netherlands,2014-15,,,,,,,,,,R,R
+Netherlands,2007-08,,,,,,,,,,,R
+Norway,2014-15,,,,,,,,,,,R
+Norway,2007-08,,,,,,,,,,,R
+Poland,2014-15,,,,,,,R,R,R,R,R
+Poland,2007-08,,,,,,,,,R,R,R
+Portugal,2014-15,,,,,,,,,,R,R
+Portugal,2007-08,,,,,,,,,,,R
+Romania,2014-15,,,,,,,,,,,R
+Romania,2007-08,,,,,,,,,,,R
+Slovakia,2014-15,,,,,,R,,,,R,R
+Slovakia,2007-08,,,,,,R,,,,R,R
+Slovenia,2014-15,R,,,,,,,,,,R
+Slovenia,2007-08,R,,,,,,,,,,R
+Spain,2014-15,,,,,,,,,,,R
+Spain,2007-08,,,,,,,,,,,R
+Sweden,2014-15,,,,,,,,,,,R
+Sweden,2007-08,,,,,,,,,,,R
+UK England,2014-15,R,R,R,R,,,,,,,R
+UK England,2007-08,,,,,,,,,,,R
+UK Northern Ireland,2014-15,,R,R,R,R,R,,,,,R
+UK Northern Ireland,2007-08,,,,,,,,,,,R
+UK Scotland,2014-15,,R,R,R,R,R,,,,,R
+UK Scotland,2007-08,,,,,,,,,,,R
+UK Wales,2014-15,,R,R,R,,R,,,,,R
+UK Wales,2007-08,,,,,,,,,,,R
+United States,2007-08,R,R,R,R,,,,,,,R
+United States,2014-15,R,R,R,R,R,R,R,R,R,R,R

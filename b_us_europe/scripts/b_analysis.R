@@ -1,0 +1,107 @@
+library(wpp2017)
+library(cowplot)
+library(lubridate)
+library(fmsb)
+library(MultinomialCI)
+source('utils.R')
+source('summarize_flunet.R')
+source('colors.R')
+library(tidyverse)
+
+setwd('../')
+
+normalize = function(x){
+  return(x/sum(x, na.rm=T))
+}
+
+textSize = 10
+plot_themes  = 	theme_classic() +
+  theme(axis.ticks = element_line(size=.5, color = 'black'),
+        axis.ticks.length = unit(-4,'pt'),
+        axis.text.x=element_text(size = textSize, color='black', margin=margin(7,7,0,7,'pt')), 
+        axis.text.y=element_text(size = textSize, color='black', margin=margin(7,7,7,0,'pt')),
+        axis.title=element_text(size= textSize, color='black'),
+        plot.title=element_text(size=textSize+2, color='black'),
+        plot.margin=unit(c(9,9,9,9),'pt'),
+        legend.title=element_text(size=textSize, color='black'),
+        legend.text=element_text(size=textSize, color='black'),
+        # legend.position ='bottom',
+        # legend.direction='horizontal',
+        legend.margin=margin(l = 8, unit='pt'),
+        panel.border = element_rect(colour = "black", fill=NA, size=1),
+        axis.line = element_blank())
+
+vac = read.csv('data/vaccines.csv') %>%
+  mutate(season = substr(season, 1,4)) %>%
+  select(season, B.lineage)
+
+###### B ANALYSIS
+b_data = read_csv('data/b_data.csv') %>% group_by(season, location, lineage) %>%
+  merge(vac) %>%
+  mutate(match = if_else(substr(lineage, 1,3) == B.lineage, 'matched', 'unmatched')) %>%
+  select(season, location, match, counts) %>% 
+  spread(match, counts) 
+
+gisaid_summary = ggplot(b_data %>% gather('lineage', 'counts', matched, unmatched),
+                        aes(x=str_c(season, '-',substr(as.numeric(season)+1,3,4)), y = counts, fill = lineage)) +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1)) +
+  geom_bar(stat = 'identity') + 
+  facet_wrap(~location,nrow=7,ncol=4, scales = 'free_y') +
+  scale_fill_brewer(palette='Dark2') +
+  xlab('Season') + ylab('Counts') +
+  theme(legend.position = 'bottom')
+
+save_plot('plots/gisaid_b.pdf', gisaid_summary, base_aspect_ratio=1.4)
+
+b_data = b_data %>% gather(key = 'lineage', value = 'counts', matched, unmatched) %>%
+  group_by(location, season) %>%
+  mutate(ci_low = multinomialCI(counts, alpha = .05)[,1],
+         ci_high = multinomialCI(counts, alpha = .05)[,2],
+         freq = counts/sum(counts)) %>%
+  ungroup() %>%
+  arrange(season,location) %>%
+  mutate(err = (ci_high - ci_low) / 2)
+
+ili_data = get_ili() %>% 
+  mutate(census_year = round(season/5)*5) %>%
+  merge(get_pop()) %>%
+  mutate(location = ifelse(!(country %in% c('Australia','United States', 'China', 'Canada')), 'Europe', NA)) %>%
+  mutate(location = ifelse(country == 'United States', 'United States', location)) %>%
+  filter(!is.na(location)) %>%
+  dplyr::group_by(location, season) %>%
+  mutate(pop = pop/sum(pop), test = sum(season)) %>%
+  dplyr::summarise(flu_proxy = sum(flu_proxy*pop, na.rm=T)) %>%
+  ungroup() 
+
+data = merge(b_data,ili_data) %>%
+  group_by(location) %>%
+  mutate(normalized_flu_proxy = normalize(flu_proxy)) %>%
+  ungroup() %>%
+  group_by(location,lineage) %>%
+  dplyr::summarise(freq = sum(freq*normalized_flu_proxy,na.rm=T),
+            err = sum((err*normalized_flu_proxy)^2, na.rm=T)^.5) %>%
+  ungroup() %>%
+  mutate(err = round(err,4)) %>%
+  spread(lineage,freq)%>%
+  mutate(ratio = unmatched/matched,
+         err = (ratio^2*((err/matched)^2+(err/unmatched)^2))^.5) %>%
+  mutate(low = ratio-err, high = ratio+err)
+
+a = ggplot(data, aes(x=location, y=ratio, fill = location)) + 
+  geom_bar(stat='identity') +
+  geom_errorbar(aes(ymin = low, ymax = high), width = .5) +
+  scale_fill_brewer(palette = 'Dark2', guide= F) +
+  xlab('Location') + ylab('Ratio vaccine-unmatched:matched\nB lineage')
+
+expect_plot = ggplot(data.frame(x=c(1,3), y=c(.5,.5)), aes(x=x, y=y)) +
+  geom_line(color = 'blue') +
+  geom_point(color = 'blue') +
+  theme(axis.title = element_blank(), 
+        axis.text=element_blank(), 
+        axis.ticks = element_blank(),
+        plot.margin=unit(c(10,10,5,63),'pt')) +
+  xlim(c(0,4)) + ylim(c(0,1))
+
+ratio_plot = plot_grid(expect_plot, a, ncol=1, rel_heights = c(.25,1))
+
+save_plot('plots/b_summary.pdf', ratio_plot, base_aspect_ratio = .9)

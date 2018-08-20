@@ -1,0 +1,556 @@
+﻿textbox22
+generated on 25/06/2018 03:07:05 UTC
+
+Country,WHOREGION,FLUREGION,Year,Week,SDATE,EDATE,SPEC_RECEIVED_NB,SPEC_PROCESSED_NB,AH1,AH1N12009,AH3,AH5,ANOTSUBTYPED,INF_A,BYAMAGATA,BVICTORIA,BNOTDETERMINED,INF_B,ALL_INF,ALL_INF2,TITLE
+Sweden,European Region of WHO,Northern Europe,2006,1,2006-01-02,2006-01-08,,11,,,,,2,2,,,9,9,11,,No Activity
+Sweden,European Region of WHO,Northern Europe,2006,2,2006-01-09,2006-01-15,,9,,,1,,5,6,,,3,3,9,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2006,3,2006-01-16,2006-01-22,,5,,,,,4,4,,,1,1,5,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2006,4,2006-01-23,2006-01-29,,17,,,,,4,4,,,13,13,17,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2006,5,2006-01-30,2006-02-05,,34,,,,,13,13,,,21,21,34,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2006,6,2006-02-06,2006-02-12,,48,,,,,16,16,,,32,32,48,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2006,7,2006-02-13,2006-02-19,,68,,,,,23,23,,,45,45,68,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2006,8,2006-02-20,2006-02-26,,69,,,,,26,26,,,43,43,69,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2006,9,2006-02-27,2006-03-05,,97,,,,,39,39,,,58,58,97,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2006,10,2006-03-06,2006-03-12,,75,,,,,30,30,,,45,45,75,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2006,11,2006-03-13,2006-03-19,,79,,,,,30,30,,,49,49,79,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2006,12,2006-03-20,2006-03-26,,119,,,,,67,67,,,52,52,119,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2006,13,2006-03-27,2006-04-02,,79,,,,,42,42,,,37,37,79,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2006,14,2006-04-03,2006-04-09,,54,,,,,38,38,,,16,16,54,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2006,15,2006-04-10,2006-04-16,,57,,,,,38,38,,,19,19,57,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2006,16,2006-04-17,2006-04-23,,32,,,,,26,26,,,6,6,32,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2006,17,2006-04-24,2006-04-30,,7,,,,,5,5,,,2,2,7,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2006,18,2006-05-01,2006-05-07,,13,,,,,11,11,,,2,2,13,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2006,19,2006-05-08,2006-05-14,,8,,,,,6,6,,,2,2,8,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2006,20,2006-05-15,2006-05-21,,0,,,,,0,0,,,0,0,0,,No Activity
+Sweden,European Region of WHO,Northern Europe,2006,24,2006-06-12,2006-06-18,,1,,,,,1,1,,,0,0,1,,No Activity
+Sweden,European Region of WHO,Northern Europe,2006,33,2006-08-14,2006-08-20,,1,,,1,,,1,,,0,0,1,,No Activity
+Sweden,European Region of WHO,Northern Europe,2006,34,2006-08-21,2006-08-27,,,,,,,1,1,,,0,0,1,,No Report
+Sweden,European Region of WHO,Northern Europe,2006,40,2006-10-02,2006-10-08,,0,,,,,0,0,,,0,0,0,,No Activity
+Sweden,European Region of WHO,Northern Europe,2006,41,2006-10-09,2006-10-15,,1,,,,,1,1,,,0,0,1,,No Activity
+Sweden,European Region of WHO,Northern Europe,2006,42,2006-10-16,2006-10-22,,0,,,,,0,0,,,0,0,0,,No Activity
+Sweden,European Region of WHO,Northern Europe,2006,43,2006-10-23,2006-10-29,,1,,,,,1,1,,,0,0,1,,No Activity
+Sweden,European Region of WHO,Northern Europe,2006,44,2006-10-30,2006-11-05,,0,,,,,0,0,,,0,0,0,,No Activity
+Sweden,European Region of WHO,Northern Europe,2006,45,2006-11-06,2006-11-12,,3,,,,,3,3,,,0,0,3,,No Activity
+Sweden,European Region of WHO,Northern Europe,2006,46,2006-11-13,2006-11-19,,5,,,,,5,5,,,0,0,5,,No Activity
+Sweden,European Region of WHO,Northern Europe,2006,47,2006-11-20,2006-11-26,,17,,,,,17,17,,,0,0,17,,Local Outbreak
+Sweden,European Region of WHO,Northern Europe,2006,48,2006-11-27,2006-12-03,,10,,,,,9,9,,,1,1,10,,No Activity
+Sweden,European Region of WHO,Northern Europe,2006,49,2006-12-04,2006-12-10,,9,,,,,9,9,,,0,0,9,,No Activity
+Sweden,European Region of WHO,Northern Europe,2006,50,2006-12-11,2006-12-17,,16,,,,,16,16,,,0,0,16,,Regional Outbreak
+Sweden,European Region of WHO,Northern Europe,2006,51,2006-12-18,2006-12-24,,19,,,,,19,19,,,0,0,19,,Regional Outbreak
+Sweden,European Region of WHO,Northern Europe,2006,52,2006-12-25,2006-12-31,,34,,,,,34,34,,,0,0,34,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2007,1,2007-01-01,2007-01-07,,21,,,,,21,21,,,0,0,21,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2007,2,2007-01-08,2007-01-14,,25,,,,,25,25,,,0,0,25,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2007,3,2007-01-15,2007-01-21,,12,,,,,12,12,,,0,0,12,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2007,4,2007-01-22,2007-01-28,,20,,,,,18,18,,,2,2,20,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2007,5,2007-01-29,2007-02-04,,29,,,,,29,29,,,0,0,29,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2007,6,2007-02-05,2007-02-11,,55,,,,,55,55,,,0,0,55,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2007,7,2007-02-12,2007-02-18,,165,,,8,,115,123,,,2,2,125,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2007,8,2007-02-19,2007-02-25,,226,,,14,,169,183,,,1,1,184,,Widespread Outbreak
+Sweden,European Region of WHO,Northern Europe,2007,9,2007-02-26,2007-03-04,,271,1,,16,,220,237,,,1,1,238,,Widespread Outbreak
+Sweden,European Region of WHO,Northern Europe,2007,10,2007-03-05,2007-03-11,,271,,,,,243,243,,,2,2,245,,Widespread Outbreak
+Sweden,European Region of WHO,Northern Europe,2007,11,2007-03-12,2007-03-18,,140,,,,,125,125,,,0,0,125,,Widespread Outbreak
+Sweden,European Region of WHO,Northern Europe,2007,12,2007-03-19,2007-03-25,,119,,,,,89,89,,,2,2,91,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2007,13,2007-03-26,2007-04-01,,62,,,,,44,44,,,0,0,44,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2007,14,2007-04-02,2007-04-08,,51,,,,,36,36,,,2,2,38,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2007,15,2007-04-09,2007-04-15,,34,,,,,27,27,,,1,1,28,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2007,16,2007-04-16,2007-04-22,,20,,,,,13,13,,,0,0,13,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2007,17,2007-04-23,2007-04-29,,9,,,,,2,2,,,0,0,2,,No Activity
+Sweden,European Region of WHO,Northern Europe,2007,18,2007-04-30,2007-05-06,,5,,,,,3,3,,,2,2,5,,No Activity
+Sweden,European Region of WHO,Northern Europe,2007,19,2007-05-07,2007-05-13,,3,,,,,1,1,,,2,2,3,,No Activity
+Sweden,European Region of WHO,Northern Europe,2007,20,2007-05-14,2007-05-20,,0,,,,,0,0,,,0,0,0,,No Activity
+Sweden,European Region of WHO,Northern Europe,2007,40,2007-10-01,2007-10-07,,1,,,,,0,0,,,1,1,1,,No Activity
+Sweden,European Region of WHO,Northern Europe,2007,41,2007-10-08,2007-10-14,,0,,,,,0,0,,,0,0,0,,No Activity
+Sweden,European Region of WHO,Northern Europe,2007,42,2007-10-15,2007-10-21,,3,,,,,1,1,,,2,2,3,,No Activity
+Sweden,European Region of WHO,Northern Europe,2007,43,2007-10-22,2007-10-28,,1,,,,,1,1,,,0,0,1,,No Activity
+Sweden,European Region of WHO,Northern Europe,2007,44,2007-10-29,2007-11-04,,1,,,,,1,1,,,0,0,1,,No Activity
+Sweden,European Region of WHO,Northern Europe,2007,45,2007-11-05,2007-11-11,,16,1,,,,0,1,,,3,3,4,,No Activity
+Sweden,European Region of WHO,Northern Europe,2007,46,2007-11-12,2007-11-18,,32,,,,,2,2,,,3,3,5,,No Activity
+Sweden,European Region of WHO,Northern Europe,2007,47,2007-11-19,2007-11-25,,26,,,,,2,2,,,3,3,5,,No Activity
+Sweden,European Region of WHO,Northern Europe,2007,48,2007-11-26,2007-12-02,,33,,,,,2,2,,,5,5,7,,No Activity
+Sweden,European Region of WHO,Northern Europe,2007,49,2007-12-03,2007-12-09,,26,,,,,3,3,,,1,1,4,,No Activity
+Sweden,European Region of WHO,Northern Europe,2007,50,2007-12-10,2007-12-16,,,,,,,2,2,,,1,1,3,,No Activity
+Sweden,European Region of WHO,Northern Europe,2008,1,2007-12-31,2008-01-06,,42,,,,,21,21,,,4,4,25,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2008,2,2008-01-07,2008-01-13,,60,2,,,,16,18,,,15,15,33,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2008,3,2008-01-14,2008-01-20,,48,,,,,15,15,,,13,13,28,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2008,4,2008-01-21,2008-01-27,,72,4,,,,34,38,,,21,21,59,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2008,5,2008-01-28,2008-02-03,,87,2,,,,32,34,,,34,34,68,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2008,6,2008-02-04,2008-02-10,,115,7,,1,,46,54,,,44,44,98,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2008,7,2008-02-11,2008-02-17,,119,,,,,48,48,,,45,45,93,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2008,8,2008-02-18,2008-02-24,,123,,,,,38,38,,,70,70,108,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2008,9,2008-02-25,2008-03-02,,134,,,,,41,41,,,68,68,109,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2008,10,2008-03-03,2008-03-09,,113,,,,,33,33,,,67,67,100,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2008,11,2008-03-10,2008-03-16,,72,,,,,16,16,,,56,56,72,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2008,12,2008-03-17,2008-03-23,,93,,,,,19,19,,,61,61,80,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2008,13,2008-03-24,2008-03-30,,101,,,,,20,20,,,78,78,98,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2008,14,2008-03-31,2008-04-06,,83,,,,,12,12,,,59,59,71,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2008,15,2008-04-07,2008-04-13,,96,,,,,14,14,,,72,72,86,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2008,16,2008-04-14,2008-04-20,,49,,,,,12,12,,,36,36,48,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2008,17,2008-04-21,2008-04-27,,35,,,,,6,6,,,25,25,31,,No Activity
+Sweden,European Region of WHO,Northern Europe,2008,18,2008-04-28,2008-05-04,,38,,,,,8,8,,,22,22,30,,No Activity
+Sweden,European Region of WHO,Northern Europe,2008,19,2008-05-05,2008-05-11,,15,0,,0,,2,2,0,0,13,13,15,,No Activity
+Sweden,European Region of WHO,Northern Europe,2008,20,2008-05-12,2008-05-18,,11,0,,0,,4,4,0,0,7,7,11,,No Activity
+Sweden,European Region of WHO,Northern Europe,2008,38,2008-09-15,2008-09-21,,1,,,,,0,0,,,0,0,0,,No Activity
+Sweden,European Region of WHO,Northern Europe,2008,39,2008-09-22,2008-09-28,,2,,,,,0,0,,,0,0,0,,No Activity
+Sweden,European Region of WHO,Northern Europe,2008,40,2008-09-29,2008-10-05,,33,,,2,,2,4,,,0,0,4,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2008,41,2008-10-06,2008-10-12,,0,,,,,0,0,,,0,0,0,,No Activity
+Sweden,European Region of WHO,Northern Europe,2008,42,2008-10-13,2008-10-19,,57,,,2,,1,3,,,0,0,3,,No Activity
+Sweden,European Region of WHO,Northern Europe,2008,43,2008-10-20,2008-10-26,,36,,,2,,2,4,,,0,0,4,,No Activity
+Sweden,European Region of WHO,Northern Europe,2008,44,2008-10-27,2008-11-02,,57,,,,,0,0,,,0,0,0,,No Activity
+Sweden,European Region of WHO,Northern Europe,2008,45,2008-11-03,2008-11-09,,71,1,,2,,2,5,,,1,1,6,,No Activity
+Sweden,European Region of WHO,Northern Europe,2008,46,2008-11-10,2008-11-16,,94,,,3,,4,7,,,1,1,8,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2008,47,2008-11-17,2008-11-23,,64,,,4,,4,8,,,0,0,8,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2008,48,2008-11-24,2008-11-30,,65,,,3,,8,11,,,4,4,15,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2008,49,2008-12-01,2008-12-07,,70,,,3,,5,8,,,3,3,11,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2008,50,2008-12-08,2008-12-14,,102,2,,7,,20,29,,,3,3,32,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2008,51,2008-12-15,2008-12-21,,136,2,,8,,64,74,,,0,0,74,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2008,52,2008-12-22,2008-12-28,,83,2,,8,,49,59,,,0,0,59,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2009,1,2008-12-29,2009-01-04,,211,2,,10,,176,188,,,0,0,188,,Widespread Outbreak
+Sweden,European Region of WHO,Northern Europe,2009,2,2009-01-05,2009-01-11,,287,6,,19,,187,212,,,1,1,213,,Widespread Outbreak
+Sweden,European Region of WHO,Northern Europe,2009,3,2009-01-12,2009-01-18,,304,7,,39,,196,242,,,0,0,242,,Widespread Outbreak
+Sweden,European Region of WHO,Northern Europe,2009,4,2009-01-19,2009-01-25,,384,,,17,,295,312,,,0,0,312,,Widespread Outbreak
+Sweden,European Region of WHO,Northern Europe,2009,5,2009-01-26,2009-02-01,,319,,,,,257,257,,,2,2,259,,Widespread Outbreak
+Sweden,European Region of WHO,Northern Europe,2009,6,2009-02-02,2009-02-08,,327,,,7,,266,273,,,3,3,276,,Widespread Outbreak
+Sweden,European Region of WHO,Northern Europe,2009,7,2009-02-09,2009-02-15,,206,,,,,158,158,,,3,3,161,,Regional Outbreak
+Sweden,European Region of WHO,Northern Europe,2009,8,2009-02-16,2009-02-22,,185,,,,,151,151,,,1,1,152,,Regional Outbreak
+Sweden,European Region of WHO,Northern Europe,2009,9,2009-02-23,2009-03-01,,115,,,,,85,85,,,5,5,90,,Regional Outbreak
+Sweden,European Region of WHO,Northern Europe,2009,10,2009-03-02,2009-03-08,,117,,,,,57,57,,,15,15,72,,Regional Outbreak
+Sweden,European Region of WHO,Northern Europe,2009,11,2009-03-09,2009-03-15,,64,,,,,30,30,,,12,12,42,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2009,12,2009-03-16,2009-03-22,,50,,,,,19,19,,,6,6,25,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2009,13,2009-03-23,2009-03-29,,23,,,,,5,5,,,4,4,9,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2009,14,2009-03-30,2009-04-05,,30,0,,0,,4,4,0,0,9,9,13,,No Activity
+Sweden,European Region of WHO,Northern Europe,2009,15,2009-04-06,2009-04-12,,14,0,,0,,2,2,0,0,5,5,7,,No Activity
+Sweden,European Region of WHO,Northern Europe,2009,16,2009-04-13,2009-04-19,,23,,,,,1,1,,,13,13,14,,No Activity
+Sweden,European Region of WHO,Northern Europe,2009,17,2009-04-20,2009-04-26,,6,,,,,1,1,,,5,5,6,,No Activity
+Sweden,European Region of WHO,Northern Europe,2009,18,2009-04-27,2009-05-03,,53,,,,,3,3,,,17,17,20,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2009,19,2009-05-04,2009-05-10,,41,,,,,2,2,,,12,12,14,,No Activity
+Sweden,European Region of WHO,Northern Europe,2009,20,2009-05-11,2009-05-17,,47,,,,,3,3,,,4,4,7,,No Activity
+Sweden,European Region of WHO,Northern Europe,2009,21,2009-05-18,2009-05-24,,30,,,,,1,1,,,6,6,7,,No Activity
+Sweden,European Region of WHO,Northern Europe,2009,22,2009-05-25,2009-05-31,,62,,,,,3,3,,,5,5,8,,No Activity
+Sweden,European Region of WHO,Northern Europe,2009,23,2009-06-01,2009-06-07,,6,0,,0,,3,3,0,0,3,3,6,,No Activity
+Sweden,European Region of WHO,Northern Europe,2009,25,2009-06-15,2009-06-21,,51,15,21,0,,16,52,0,0,5,5,57,,No Activity
+Sweden,European Region of WHO,Northern Europe,2009,26,2009-06-22,2009-06-28,,64,0,14,2,,11,27,0,0,1,1,28,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2009,27,2009-06-29,2009-07-05,,23,0,38,2,,9,49,0,0,1,1,50,,No Activity
+Sweden,European Region of WHO,Northern Europe,2009,28,2009-07-06,2009-07-12,,376,3,68,1,,13,85,0,0,0,0,85,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2009,29,2009-07-13,2009-07-19,,682,0,185,0,,9,194,0,0,0,0,194,,No Activity
+Sweden,European Region of WHO,Northern Europe,2009,30,2009-07-20,2009-07-26,,788,0,106,1,,2,109,0,0,0,0,109,,Widespread Outbreak
+Sweden,European Region of WHO,Northern Europe,2009,31,2009-07-27,2009-08-02,,864,0,92,0,,0,92,0,0,0,0,92,,Widespread Outbreak
+Sweden,European Region of WHO,Northern Europe,2009,32,2009-08-03,2009-08-09,,842,0,71,0,,4,75,1,0,0,1,76,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2009,33,2009-08-10,2009-08-16,,911,0,72,0,,2,74,0,0,0,0,74,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2009,34,2009-08-17,2009-08-23,,1027,0,110,0,,5,115,0,0,1,1,116,,Widespread Outbreak
+Sweden,European Region of WHO,Northern Europe,2009,35,2009-08-24,2009-08-30,,1409,0,182,1,,5,188,0,0,0,0,188,,Widespread Outbreak
+Sweden,European Region of WHO,Northern Europe,2009,36,2009-08-31,2009-09-06,,2833,0,211,1,,8,220,0,0,0,0,220,,Widespread Outbreak
+Sweden,European Region of WHO,Northern Europe,2009,37,2009-09-07,2009-09-13,,2954,0,148,0,,3,151,0,0,0,0,151,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2009,38,2009-09-14,2009-09-20,,1933,0,113,0,,1,114,0,0,0,0,114,,Local Outbreak
+Sweden,European Region of WHO,Northern Europe,2009,39,2009-09-21,2009-09-27,,1361,0,69,1,,2,72,0,0,0,0,72,,Local Outbreak
+Sweden,European Region of WHO,Northern Europe,2009,40,2009-09-28,2009-10-04,,1042,0,68,0,,2,70,0,0,0,0,70,,Local Outbreak
+Sweden,European Region of WHO,Northern Europe,2009,41,2009-10-05,2009-10-11,,1079,0,120,2,,0,122,0,0,0,0,122,,Regional Outbreak
+Sweden,European Region of WHO,Northern Europe,2009,42,2009-10-12,2009-10-18,,1257,0,227,1,,1,229,0,0,0,0,229,,Regional Outbreak
+Sweden,European Region of WHO,Northern Europe,2009,43,2009-10-19,2009-10-25,,1688,0,437,0,,6,443,0,0,0,0,443,,Regional Outbreak
+Sweden,European Region of WHO,Northern Europe,2009,44,2009-10-26,2009-11-01,,2138,0,780,0,,7,787,0,0,0,0,787,,Widespread Outbreak
+Sweden,European Region of WHO,Northern Europe,2009,45,2009-11-02,2009-11-08,,3985,0,1302,0,,8,1310,0,0,0,0,1310,,Widespread Outbreak
+Sweden,European Region of WHO,Northern Europe,2009,46,2009-11-09,2009-11-15,,5692,0,2472,0,,7,2479,0,0,0,0,2479,,Widespread Outbreak
+Sweden,European Region of WHO,Northern Europe,2009,47,2009-11-16,2009-11-22,,5281,0,2487,0,,4,2491,0,0,0,0,2491,,Widespread Outbreak
+Sweden,European Region of WHO,Northern Europe,2009,48,2009-11-23,2009-11-29,,3463,0,1348,1,,2,1351,0,0,3,3,1354,,Widespread Outbreak
+Sweden,European Region of WHO,Northern Europe,2009,49,2009-11-30,2009-12-06,,1841,0,436,0,,0,436,0,0,0,0,436,,Widespread Outbreak
+Sweden,European Region of WHO,Northern Europe,2009,50,2009-12-07,2009-12-13,,1102,0,165,0,,2,167,0,0,0,0,167,,Widespread Outbreak
+Sweden,European Region of WHO,Northern Europe,2009,51,2009-12-14,2009-12-20,,529,0,70,0,,1,71,0,0,0,0,71,,Regional Outbreak
+Sweden,European Region of WHO,Northern Europe,2009,52,2009-12-21,2009-12-27,,439,0,18,0,,0,18,0,0,1,1,19,,Local Outbreak
+Sweden,European Region of WHO,Northern Europe,2009,53,2009-12-28,2010-01-03,,361,0,12,0,,0,12,0,0,2,2,14,,No Activity
+Sweden,European Region of WHO,Northern Europe,2010,1,2010-01-04,2010-01-10,,323,0,4,0,,0,4,0,0,0,0,4,,Local Outbreak
+Sweden,European Region of WHO,Northern Europe,2010,2,2010-01-11,2010-01-17,,316,0,7,0,,1,8,0,0,0,0,8,,Local Outbreak
+Sweden,European Region of WHO,Northern Europe,2010,3,2010-01-18,2010-01-24,,278,0,5,0,,0,5,0,0,0,0,5,,No Activity
+Sweden,European Region of WHO,Northern Europe,2010,4,2010-01-25,2010-01-31,,250,0,2,0,,0,2,0,0,0,0,2,,No Activity
+Sweden,European Region of WHO,Northern Europe,2010,5,2010-02-01,2010-02-07,,297,0,3,0,,0,3,0,0,2,2,5,,No Activity
+Sweden,European Region of WHO,Northern Europe,2010,6,2010-02-08,2010-02-14,,284,0,5,0,,0,5,0,0,9,9,14,,No Activity
+Sweden,European Region of WHO,Northern Europe,2010,7,2010-02-15,2010-02-21,,252,0,1,0,,0,1,0,0,2,2,3,,No Activity
+Sweden,European Region of WHO,Northern Europe,2010,8,2010-02-22,2010-02-28,,333,0,0,0,,0,0,0,0,4,4,4,,No Activity
+Sweden,European Region of WHO,Northern Europe,2010,9,2010-03-01,2010-03-07,,307,0,0,0,,0,0,0,0,11,11,11,,No Activity
+Sweden,European Region of WHO,Northern Europe,2010,10,2010-03-08,2010-03-14,,296,0,1,0,,0,1,0,0,4,4,5,,No Activity
+Sweden,European Region of WHO,Northern Europe,2010,11,2010-03-15,2010-03-21,,365,0,0,0,,0,0,0,0,9,9,9,,No Activity
+Sweden,European Region of WHO,Northern Europe,2010,12,2010-03-22,2010-03-28,,332,0,1,0,,0,1,0,0,11,11,12,,No Activity
+Sweden,European Region of WHO,Northern Europe,2010,13,2010-03-29,2010-04-04,,303,0,0,0,,0,0,0,0,10,10,10,,No Activity
+Sweden,European Region of WHO,Northern Europe,2010,14,2010-04-05,2010-04-11,,226,0,0,0,,1,1,0,0,17,17,18,,No Activity
+Sweden,European Region of WHO,Northern Europe,2010,15,2010-04-12,2010-04-18,,280,0,0,0,,0,0,0,0,15,15,15,,No Activity
+Sweden,European Region of WHO,Northern Europe,2010,16,2010-04-19,2010-04-25,,278,0,0,0,,0,0,0,0,10,10,10,,No Activity
+Sweden,European Region of WHO,Northern Europe,2010,17,2010-04-26,2010-05-02,,223,0,1,0,,1,2,0,0,9,9,11,,No Activity
+Sweden,European Region of WHO,Northern Europe,2010,18,2010-05-03,2010-05-09,,184,0,0,0,,1,1,0,0,7,7,8,,No Activity
+Sweden,European Region of WHO,Northern Europe,2010,19,2010-05-10,2010-05-16,,174,0,1,0,,0,1,0,0,8,8,9,,No Activity
+Sweden,European Region of WHO,Northern Europe,2010,20,2010-05-17,2010-05-23,,187,0,0,0,,0,0,0,0,1,1,1,,No Activity
+Sweden,European Region of WHO,Northern Europe,2010,21,2010-05-24,2010-05-30,,13,0,0,0,,0,0,0,0,3,3,3,,No Report
+Sweden,European Region of WHO,Northern Europe,2010,22,2010-05-31,2010-06-06,,9,0,0,0,,0,0,0,0,2,2,2,,No Report
+Sweden,European Region of WHO,Northern Europe,2010,23,2010-06-07,2010-06-13,,4,0,0,0,,0,0,0,0,1,1,1,,No Report
+Sweden,European Region of WHO,Northern Europe,2010,24,2010-06-14,2010-06-20,,6,0,0,0,,0,0,0,0,1,1,1,,No Report
+Sweden,European Region of WHO,Northern Europe,2010,25,2010-06-21,2010-06-27,,8,0,0,0,,0,0,0,0,1,1,1,,No Report
+Sweden,European Region of WHO,Northern Europe,2010,26,2010-06-28,2010-07-04,,3,0,0,0,,0,0,0,0,1,1,1,,No Report
+Sweden,European Region of WHO,Northern Europe,2010,27,2010-07-05,2010-07-11,,1,0,0,0,,1,1,0,0,0,0,1,,No Report
+Sweden,European Region of WHO,Northern Europe,2010,28,2010-07-12,2010-07-18,,0,0,0,0,,0,0,0,0,0,0,0,,No Report
+Sweden,European Region of WHO,Northern Europe,2010,29,2010-07-19,2010-07-25,,0,0,0,0,,0,0,0,0,0,0,0,,No Report
+Sweden,European Region of WHO,Northern Europe,2010,30,2010-07-26,2010-08-01,,0,0,0,0,,0,0,0,0,0,0,0,,No Report
+Sweden,European Region of WHO,Northern Europe,2010,31,2010-08-02,2010-08-08,,1,0,0,0,,0,0,0,0,0,0,0,,No Report
+Sweden,European Region of WHO,Northern Europe,2010,32,2010-08-09,2010-08-15,,0,0,0,0,,0,0,0,0,0,0,0,,No Report
+Sweden,European Region of WHO,Northern Europe,2010,33,2010-08-16,2010-08-22,,1,0,1,0,,0,1,0,0,0,0,1,,No Report
+Sweden,European Region of WHO,Northern Europe,2010,34,2010-08-23,2010-08-29,,0,0,0,0,,0,0,0,0,0,0,0,,No Report
+Sweden,European Region of WHO,Northern Europe,2010,35,2010-08-30,2010-09-05,,0,0,0,0,,0,0,0,0,0,0,0,,No Report
+Sweden,European Region of WHO,Northern Europe,2010,36,2010-09-06,2010-09-12,,0,0,0,0,,0,0,0,0,0,0,0,,No Report
+Sweden,European Region of WHO,Northern Europe,2010,37,2010-09-13,2010-09-19,,80,0,0,1,,0,1,0,0,0,0,1,,No Report
+Sweden,European Region of WHO,Northern Europe,2010,38,2010-09-20,2010-09-26,,1,0,0,0,,0,0,0,0,0,0,0,,No Report
+Sweden,European Region of WHO,Northern Europe,2010,39,2010-09-27,2010-10-03,,3,0,0,0,,1,1,0,0,0,0,1,,No Report
+Sweden,European Region of WHO,Northern Europe,2010,40,2010-10-04,2010-10-10,,134,0,0,0,,0,0,,,0,0,0,,No Activity
+Sweden,European Region of WHO,Northern Europe,2010,41,2010-10-11,2010-10-17,,193,0,0,0,,0,0,,,0,0,0,,No Activity
+Sweden,European Region of WHO,Northern Europe,2010,42,2010-10-18,2010-10-24,,202,0,0,0,,0,0,,,0,0,0,,No Activity
+Sweden,European Region of WHO,Northern Europe,2010,43,2010-10-25,2010-10-31,,228,0,0,1,,0,1,0,0,0,0,1,,No Activity
+Sweden,European Region of WHO,Northern Europe,2010,44,2010-11-01,2010-11-07,,205,0,0,1,,2,3,1,0,3,4,7,,No Activity
+Sweden,European Region of WHO,Northern Europe,2010,45,2010-11-08,2010-11-14,,241,0,0,0,,0,0,0,2,1,3,3,,No Activity
+Sweden,European Region of WHO,Northern Europe,2010,46,2010-11-15,2010-11-21,,252,0,0,0,,1,1,0,0,1,1,2,,No Activity
+Sweden,European Region of WHO,Northern Europe,2010,47,2010-11-22,2010-11-28,,286,0,1,0,,0,1,0,0,3,3,4,,No Activity
+Sweden,European Region of WHO,Northern Europe,2010,48,2010-11-29,2010-12-05,,334,0,5,3,,6,14,0,2,7,9,23,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2010,49,2010-12-06,2010-12-12,,338,0,6,1,,9,16,0,3,8,11,27,,Local Outbreak
+Sweden,European Region of WHO,Northern Europe,2010,50,2010-12-13,2010-12-19,,462,0,13,0,,16,29,3,4,14,21,50,,Local Outbreak
+Sweden,European Region of WHO,Northern Europe,2010,51,2010-12-20,2010-12-26,,523,0,24,7,,15,46,0,3,30,33,79,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2010,52,2010-12-27,2011-01-02,,995,0,67,12,,30,109,3,8,38,49,158,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2011,1,2011-01-03,2011-01-09,,1139,0,199,10,,59,268,2,15,69,86,354,,Widespread Outbreak
+Sweden,European Region of WHO,Northern Europe,2011,2,2011-01-10,2011-01-16,,1147,0,186,9,,26,221,1,13,77,91,312,,Widespread Outbreak
+Sweden,European Region of WHO,Northern Europe,2011,3,2011-01-17,2011-01-23,,1140,0,155,8,,47,210,1,14,92,107,317,,Widespread Outbreak
+Sweden,European Region of WHO,Northern Europe,2011,4,2011-01-24,2011-01-30,,1069,0,142,8,,36,186,1,21,122,144,330,,Widespread Outbreak
+Sweden,European Region of WHO,Northern Europe,2011,5,2011-01-31,2011-02-06,,1159,0,99,14,,70,183,0,25,197,222,405,,Widespread Outbreak
+Sweden,European Region of WHO,Northern Europe,2011,6,2011-02-07,2011-02-13,,1117,0,92,0,,57,149,1,49,178,228,377,,Widespread Outbreak
+Sweden,European Region of WHO,Northern Europe,2011,7,2011-02-14,2011-02-20,,1026,0,54,3,,32,89,1,22,156,179,268,,Widespread Outbreak
+Sweden,European Region of WHO,Northern Europe,2011,8,2011-02-21,2011-02-27,,968,0,40,7,,26,73,0,19,163,182,255,,Widespread Outbreak
+Sweden,European Region of WHO,Northern Europe,2011,9,2011-02-28,2011-03-06,,956,0,29,13,,51,93,3,14,181,198,291,,Widespread Outbreak
+Sweden,European Region of WHO,Northern Europe,2011,10,2011-03-07,2011-03-13,,999,0,27,10,,41,78,0,9,137,146,224,,Widespread Outbreak
+Sweden,European Region of WHO,Northern Europe,2011,11,2011-03-14,2011-03-20,,905,0,21,8,,28,57,0,9,102,111,168,,Widespread Outbreak
+Sweden,European Region of WHO,Northern Europe,2011,12,2011-03-21,2011-03-27,,686,0,12,11,,28,51,2,3,57,62,113,,Regional Outbreak
+Sweden,European Region of WHO,Northern Europe,2011,13,2011-03-28,2011-04-03,,660,0,19,1,,17,37,1,3,41,45,82,,Regional Outbreak
+Sweden,European Region of WHO,Northern Europe,2011,14,2011-04-04,2011-04-10,,617,0,5,9,,18,32,0,2,24,26,58,,Regional Outbreak
+Sweden,European Region of WHO,Northern Europe,2011,15,2011-04-11,2011-04-17,,485,0,4,4,,7,15,0,2,19,21,36,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2011,16,2011-04-18,2011-04-24,,410,0,3,2,,5,10,0,0,10,10,20,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2011,17,2011-04-25,2011-05-01,,338,0,1,0,,3,4,0,0,3,3,7,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2011,18,2011-05-02,2011-05-08,,234,0,2,0,,4,6,0,0,0,0,6,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2011,19,2011-05-09,2011-05-15,,230,0,0,1,,1,2,0,0,4,4,6,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2011,20,2011-05-16,2011-05-22,,197,0,1,0,,0,1,0,0,0,0,1,,No Activity
+Sweden,European Region of WHO,Northern Europe,2011,21,2011-05-23,2011-05-29,,0,0,0,0,,0,0,0,0,0,0,0,,No Report
+Sweden,European Region of WHO,Northern Europe,2011,22,2011-05-30,2011-06-05,,4,0,0,2,,0,2,0,0,0,0,2,,No Report
+Sweden,European Region of WHO,Northern Europe,2011,23,2011-06-06,2011-06-12,,2,0,0,0,,0,0,0,0,0,0,0,,No Report
+Sweden,European Region of WHO,Northern Europe,2011,24,2011-06-13,2011-06-19,,0,0,0,0,,0,0,0,0,0,0,0,,No Report
+Sweden,European Region of WHO,Northern Europe,2011,25,2011-06-20,2011-06-26,,0,0,0,0,,0,0,0,0,0,0,0,,No Report
+Sweden,European Region of WHO,Northern Europe,2011,26,2011-06-27,2011-07-03,,0,0,0,0,,0,0,0,0,0,0,0,,No Report
+Sweden,European Region of WHO,Northern Europe,2011,27,2011-07-04,2011-07-10,,2,0,0,0,,0,0,0,0,0,0,0,,No Report
+Sweden,European Region of WHO,Northern Europe,2011,28,2011-07-11,2011-07-17,,0,0,0,1,,0,1,0,0,0,0,1,,No Report
+Sweden,European Region of WHO,Northern Europe,2011,29,2011-07-18,2011-07-24,,5,0,0,1,,0,1,0,1,0,1,2,,No Report
+Sweden,European Region of WHO,Northern Europe,2011,30,2011-07-25,2011-07-31,,0,0,0,0,,0,0,0,0,0,0,0,,No Report
+Sweden,European Region of WHO,Northern Europe,2011,31,2011-08-01,2011-08-07,,2,0,0,0,,0,0,0,1,0,1,1,,No Report
+Sweden,European Region of WHO,Northern Europe,2011,32,2011-08-08,2011-08-14,,0,0,0,0,,0,0,0,0,0,0,0,,No Report
+Sweden,European Region of WHO,Northern Europe,2011,33,2011-08-15,2011-08-21,,0,0,0,1,,0,1,0,0,0,0,1,,No Report
+Sweden,European Region of WHO,Northern Europe,2011,34,2011-08-22,2011-08-28,,1,0,0,0,,0,0,0,0,0,0,0,,No Report
+Sweden,European Region of WHO,Northern Europe,2011,35,2011-08-29,2011-09-04,,2,0,0,1,,0,1,0,0,0,0,1,,No Report
+Sweden,European Region of WHO,Northern Europe,2011,36,2011-09-05,2011-09-11,,0,0,0,2,,0,2,0,0,0,0,2,,No Report
+Sweden,European Region of WHO,Northern Europe,2011,37,2011-09-12,2011-09-18,,0,0,0,0,,0,0,0,0,0,0,0,,No Report
+Sweden,European Region of WHO,Northern Europe,2011,40,2011-10-03,2011-10-09,,238,0,0,1,,0,1,0,0,0,0,1,,No Activity
+Sweden,European Region of WHO,Northern Europe,2011,41,2011-10-10,2011-10-16,,293,0,0,0,,0,0,0,0,0,0,0,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2011,42,2011-10-17,2011-10-23,,345,0,1,0,,0,1,0,0,2,2,3,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2011,43,2011-10-24,2011-10-30,,347,0,0,1,,0,1,0,0,2,2,3,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2011,44,2011-10-31,2011-11-06,,409,0,0,1,,0,1,0,0,0,0,1,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2011,45,2011-11-07,2011-11-13,,426,0,1,0,,0,1,0,0,0,0,1,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2011,46,2011-11-14,2011-11-20,,430,0,0,3,,0,3,1,0,0,1,4,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2011,47,2011-11-21,2011-11-27,,446,0,1,4,,1,6,1,0,1,2,8,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2011,48,2011-11-28,2011-12-04,,505,0,1,4,,2,7,0,0,0,0,7,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2011,49,2011-12-05,2011-12-11,,470,0,1,5,,5,11,0,0,0,0,11,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2011,50,2011-12-12,2011-12-18,,488,0,1,9,,5,15,0,0,3,3,18,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2011,51,2011-12-19,2011-12-25,,513,0,10,9,,9,28,0,0,0,0,28,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2011,52,2011-12-26,2012-01-01,,507,0,1,23,,13,37,0,1,1,2,39,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2012,1,2012-01-02,2012-01-08,,524,0,8,2,,18,28,1,0,0,1,29,,Regional Outbreak
+Sweden,European Region of WHO,Northern Europe,2012,2,2012-01-09,2012-01-15,,651,0,10,14,,5,29,0,1,3,4,33,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2012,3,2012-01-16,2012-01-22,,579,0,6,11,,34,51,0,0,1,1,52,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2012,4,2012-01-23,2012-01-29,,564,0,11,17,,46,74,0,0,3,3,77,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2012,5,2012-01-30,2012-02-05,,754,0,7,79,,49,135,2,0,2,4,139,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2012,6,2012-02-06,2012-02-12,,881,0,4,97,,122,223,0,2,9,11,234,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2012,7,2012-02-13,2012-02-19,,1190,0,6,136,,339,481,3,0,4,7,488,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2012,8,2012-02-20,2012-02-26,,1581,0,15,193,,463,671,4,4,8,16,687,,Widespread Outbreak
+Sweden,European Region of WHO,Northern Europe,2012,9,2012-02-27,2012-03-04,,2152,0,15,199,,639,853,0,0,9,9,862,,Widespread Outbreak
+Sweden,European Region of WHO,Northern Europe,2012,10,2012-03-05,2012-03-11,,1932,0,15,151,,528,694,1,0,11,12,706,,Widespread Outbreak
+Sweden,European Region of WHO,Northern Europe,2012,11,2012-03-12,2012-03-18,,1757,0,10,117,,501,628,1,2,11,14,642,,Widespread Outbreak
+Sweden,European Region of WHO,Northern Europe,2012,12,2012-03-19,2012-03-25,,1368,0,15,72,,340,427,1,1,6,8,435,,Widespread Outbreak
+Sweden,European Region of WHO,Northern Europe,2012,13,2012-03-26,2012-04-01,,1023,0,9,51,,155,215,0,0,7,7,222,,Widespread Outbreak
+Sweden,European Region of WHO,Northern Europe,2012,14,2012-04-02,2012-04-08,,814,0,7,28,,83,118,3,3,3,9,127,,Widespread Outbreak
+Sweden,European Region of WHO,Northern Europe,2012,15,2012-04-09,2012-04-15,,711,0,5,30,,62,97,0,1,9,10,107,,Widespread Outbreak
+Sweden,European Region of WHO,Northern Europe,2012,16,2012-04-16,2012-04-22,,562,0,2,11,,41,54,1,0,8,9,63,,Widespread Outbreak
+Sweden,European Region of WHO,Northern Europe,2012,17,2012-04-23,2012-04-29,,458,0,0,7,,34,41,0,0,7,7,48,,Regional Outbreak
+Sweden,European Region of WHO,Northern Europe,2012,18,2012-04-30,2012-05-06,,365,0,1,5,,15,21,0,0,7,7,28,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2012,19,2012-05-07,2012-05-13,,358,0,1,4,,9,14,0,0,4,4,18,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2012,20,2012-05-14,2012-05-20,,236,0,0,0,,4,4,0,0,4,4,8,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2012,21,2012-05-21,2012-05-27,,0,0,0,0,,10,10,0,0,2,2,12,,No Report
+Sweden,European Region of WHO,Northern Europe,2012,22,2012-05-28,2012-06-03,,0,0,0,0,,0,0,0,0,1,1,1,,No Report
+Sweden,European Region of WHO,Northern Europe,2012,23,2012-06-04,2012-06-10,,0,0,0,0,,0,0,0,0,0,0,0,,No Report
+Sweden,European Region of WHO,Northern Europe,2012,24,2012-06-11,2012-06-17,,0,0,0,0,,0,0,0,0,0,0,0,,No Report
+Sweden,European Region of WHO,Northern Europe,2012,25,2012-06-18,2012-06-24,,0,0,0,0,,0,0,0,0,0,0,0,,No Report
+Sweden,European Region of WHO,Northern Europe,2012,26,2012-06-25,2012-07-01,,0,0,0,2,,0,2,0,0,0,0,2,,No Report
+Sweden,European Region of WHO,Northern Europe,2012,27,2012-07-02,2012-07-08,,0,0,1,0,,0,1,0,0,1,1,2,,No Report
+Sweden,European Region of WHO,Northern Europe,2012,28,2012-07-09,2012-07-15,,0,0,0,1,,0,1,0,0,1,1,2,,No Report
+Sweden,European Region of WHO,Northern Europe,2012,29,2012-07-16,2012-07-22,,0,0,0,0,,1,1,0,0,0,0,1,,No Report
+Sweden,European Region of WHO,Northern Europe,2012,30,2012-07-23,2012-07-29,,0,0,0,1,,2,3,0,0,1,1,4,,No Report
+Sweden,European Region of WHO,Northern Europe,2012,31,2012-07-30,2012-08-05,,0,0,0,0,,0,0,0,0,1,1,1,,No Report
+Sweden,European Region of WHO,Northern Europe,2012,32,2012-08-06,2012-08-12,,0,0,0,1,,0,1,0,0,1,1,2,,No Report
+Sweden,European Region of WHO,Northern Europe,2012,33,2012-08-13,2012-08-19,,0,0,1,0,,0,1,0,0,0,0,1,,No Report
+Sweden,European Region of WHO,Northern Europe,2012,34,2012-08-20,2012-08-26,,0,0,0,0,,0,0,0,0,0,0,0,,No Report
+Sweden,European Region of WHO,Northern Europe,2012,35,2012-08-27,2012-09-02,,0,0,0,0,,0,0,0,0,0,0,0,,No Report
+Sweden,European Region of WHO,Northern Europe,2012,36,2012-09-03,2012-09-09,,0,0,0,0,,0,0,0,0,0,0,0,,No Report
+Sweden,European Region of WHO,Northern Europe,2012,37,2012-09-10,2012-09-16,,0,0,1,0,,0,1,0,0,2,2,3,,No Report
+Sweden,European Region of WHO,Northern Europe,2012,38,2012-09-17,2012-09-23,,0,0,0,0,,0,0,0,0,0,0,0,,No Report
+Sweden,European Region of WHO,Northern Europe,2012,39,2012-09-24,2012-09-30,,0,0,0,1,,0,1,0,0,0,0,1,,No Report
+Sweden,European Region of WHO,Northern Europe,2012,40,2012-10-01,2012-10-07,,229,0,0,1,,0,1,0,0,0,0,1,,No Activity
+Sweden,European Region of WHO,Northern Europe,2012,41,2012-10-08,2012-10-14,,241,0,0,2,,0,2,0,0,0,0,2,,No Activity
+Sweden,European Region of WHO,Northern Europe,2012,42,2012-10-15,2012-10-21,,296,0,0,4,,0,4,0,0,0,0,4,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2012,43,2012-10-22,2012-10-28,,266,0,1,1,,1,3,0,0,0,0,3,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2012,44,2012-10-29,2012-11-04,,383,0,2,1,,3,6,2,0,0,2,8,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2012,45,2012-11-05,2012-11-11,,360,0,2,2,,1,5,0,0,4,4,9,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2012,46,2012-11-12,2012-11-18,,436,0,1,4,,3,8,2,1,2,5,13,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2012,47,2012-11-19,2012-11-25,,428,0,0,0,,3,3,0,1,3,4,7,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2012,48,2012-11-26,2012-12-02,,412,0,4,3,,6,13,2,0,3,5,18,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2012,49,2012-12-03,2012-12-09,,525,0,5,4,,17,26,2,0,6,8,34,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2012,50,2012-12-10,2012-12-16,,565,0,9,12,,16,37,2,0,5,7,44,,Widespread Outbreak
+Sweden,European Region of WHO,Northern Europe,2012,51,2012-12-17,2012-12-23,,824,0,41,20,,33,94,5,0,15,20,114,,Widespread Outbreak
+Sweden,European Region of WHO,Northern Europe,2012,52,2012-12-24,2012-12-30,,684,0,56,14,,100,170,6,0,26,32,202,,Widespread Outbreak
+Sweden,European Region of WHO,Northern Europe,2013,1,2012-12-31,2013-01-06,,1014,0,104,22,,101,227,6,0,34,40,267,,Widespread Outbreak
+Sweden,European Region of WHO,Northern Europe,2013,2,2013-01-07,2013-01-13,,1354,0,147,38,,98,283,11,0,49,60,343,,Widespread Outbreak
+Sweden,European Region of WHO,Northern Europe,2013,3,2013-01-14,2013-01-20,,1422,0,196,35,,115,346,4,0,44,48,394,,Widespread Outbreak
+Sweden,European Region of WHO,Northern Europe,2013,4,2013-01-21,2013-01-27,,1585,0,247,32,,141,420,7,0,67,74,494,,Widespread Outbreak
+Sweden,European Region of WHO,Northern Europe,2013,5,2013-01-28,2013-02-03,,2022,0,309,64,,225,598,12,0,121,133,731,,Widespread Outbreak
+Sweden,European Region of WHO,Northern Europe,2013,6,2013-02-04,2013-02-10,,2362,0,388,54,,274,716,19,3,157,179,895,,Widespread Outbreak
+Sweden,European Region of WHO,Northern Europe,2013,7,2013-02-11,2013-02-17,,2512,0,347,69,,253,669,19,3,214,236,905,,Widespread Outbreak
+Sweden,European Region of WHO,Northern Europe,2013,8,2013-02-18,2013-02-24,,2275,0,242,49,,249,540,11,1,258,270,810,,Widespread Outbreak
+Sweden,European Region of WHO,Northern Europe,2013,9,2013-02-25,2013-03-03,,2065,0,168,55,,194,417,19,1,251,271,688,,Widespread Outbreak
+Sweden,European Region of WHO,Northern Europe,2013,10,2013-03-04,2013-03-10,,1778,0,104,32,,142,278,11,0,229,240,518,,Widespread Outbreak
+Sweden,European Region of WHO,Northern Europe,2013,11,2013-03-11,2013-03-17,,1556,0,70,32,,110,212,19,2,253,274,486,,Widespread Outbreak
+Sweden,European Region of WHO,Northern Europe,2013,12,2013-03-18,2013-03-24,,1337,0,65,29,,99,193,4,2,229,235,428,,Widespread Outbreak
+Sweden,European Region of WHO,Northern Europe,2013,13,2013-03-25,2013-03-31,,1224,0,33,19,,78,130,14,2,224,240,370,,Widespread Outbreak
+Sweden,European Region of WHO,Northern Europe,2013,14,2013-04-01,2013-04-07,,1138,0,31,17,,66,114,3,0,207,210,324,,Widespread Outbreak
+Sweden,European Region of WHO,Northern Europe,2013,15,2013-04-08,2013-04-14,,1101,0,21,9,,45,75,7,0,194,201,276,,Regional Outbreak
+Sweden,European Region of WHO,Northern Europe,2013,16,2013-04-15,2013-04-21,,932,0,10,10,,34,54,0,1,109,110,164,,Regional Outbreak
+Sweden,European Region of WHO,Northern Europe,2013,17,2013-04-22,2013-04-28,,682,0,4,3,,15,22,0,0,56,56,78,,Regional Outbreak
+Sweden,European Region of WHO,Northern Europe,2013,18,2013-04-29,2013-05-05,,513,0,4,1,,7,12,1,0,37,38,50,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2013,19,2013-05-06,2013-05-12,,427,0,1,2,,6,9,0,0,15,15,24,,No Activity
+Sweden,European Region of WHO,Northern Europe,2013,20,2013-05-13,2013-05-19,,431,0,0,0,,5,5,0,0,9,9,14,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2013,21,2013-05-20,2013-05-26,,0,0,0,0,,0,0,0,0,5,5,5,,No Report
+Sweden,European Region of WHO,Northern Europe,2013,22,2013-05-27,2013-06-02,,0,0,0,0,,1,1,0,0,0,0,1,,No Report
+Sweden,European Region of WHO,Northern Europe,2013,23,2013-06-03,2013-06-09,,0,0,1,0,,0,1,0,0,0,0,1,,No Report
+Sweden,European Region of WHO,Northern Europe,2013,24,2013-06-10,2013-06-16,,0,0,0,0,,0,0,0,0,0,0,0,,No Report
+Sweden,European Region of WHO,Northern Europe,2013,25,2013-06-17,2013-06-23,,0,0,0,0,,0,0,0,0,0,0,0,,No Report
+Sweden,European Region of WHO,Northern Europe,2013,26,2013-06-24,2013-06-30,,0,0,0,0,,2,2,0,0,0,0,2,,No Report
+Sweden,European Region of WHO,Northern Europe,2013,27,2013-07-01,2013-07-07,,0,0,2,0,,0,2,0,0,0,0,2,,No Report
+Sweden,European Region of WHO,Northern Europe,2013,28,2013-07-08,2013-07-14,,0,0,1,0,,0,1,0,0,0,0,1,,No Report
+Sweden,European Region of WHO,Northern Europe,2013,29,2013-07-15,2013-07-21,,0,0,1,0,,0,1,0,0,0,0,1,,No Report
+Sweden,European Region of WHO,Northern Europe,2013,30,2013-07-22,2013-07-28,,0,0,1,0,,0,1,0,0,0,0,1,,No Report
+Sweden,European Region of WHO,Northern Europe,2013,31,2013-07-29,2013-08-04,,0,0,1,0,,1,2,0,0,0,0,2,,No Report
+Sweden,European Region of WHO,Northern Europe,2013,32,2013-08-05,2013-08-11,,0,0,0,0,,1,1,0,0,0,0,1,,No Report
+Sweden,European Region of WHO,Northern Europe,2013,33,2013-08-12,2013-08-18,,0,0,0,0,,0,0,0,0,0,0,0,,No Report
+Sweden,European Region of WHO,Northern Europe,2013,34,2013-08-19,2013-08-25,,0,0,0,0,,1,1,0,0,0,0,1,,No Report
+Sweden,European Region of WHO,Northern Europe,2013,35,2013-08-26,2013-09-01,,0,0,0,0,,0,0,0,0,0,0,0,,No Report
+Sweden,European Region of WHO,Northern Europe,2013,36,2013-09-02,2013-09-08,,0,0,0,0,,2,2,0,0,0,0,2,,No Report
+Sweden,European Region of WHO,Northern Europe,2013,37,2013-09-09,2013-09-15,,0,0,0,0,,0,0,0,0,0,0,0,,No Report
+Sweden,European Region of WHO,Northern Europe,2013,38,2013-09-16,2013-09-22,,0,0,0,0,,0,0,0,0,0,0,0,,No Report
+Sweden,European Region of WHO,Northern Europe,2013,39,2013-09-23,2013-09-29,,0,0,0,0,,0,0,0,0,1,1,1,,No Report
+Sweden,European Region of WHO,Northern Europe,2013,40,2013-09-30,2013-10-06,,250,0,2,0,,1,3,0,0,0,0,3,,No Activity
+Sweden,European Region of WHO,Northern Europe,2013,41,2013-10-07,2013-10-13,,301,0,1,0,,0,1,0,0,0,0,1,,No Activity
+Sweden,European Region of WHO,Northern Europe,2013,42,2013-10-14,2013-10-20,,312,0,3,0,,0,3,0,0,0,0,3,,No Activity
+Sweden,European Region of WHO,Northern Europe,2013,43,2013-10-21,2013-10-27,,367,0,3,0,,0,3,0,0,0,0,3,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2013,44,2013-10-28,2013-11-03,,345,0,3,1,,1,5,0,0,1,1,6,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2013,45,2013-11-04,2013-11-10,,371,0,7,1,,1,9,0,0,0,0,9,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2013,46,2013-11-11,2013-11-17,,426,0,5,0,,5,10,0,0,1,1,11,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2013,47,2013-11-18,2013-11-24,,427,0,1,0,,0,1,1,0,0,1,2,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2013,48,2013-11-25,2013-12-01,,445,0,8,2,,4,14,0,0,1,1,15,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2013,49,2013-12-02,2013-12-08,,498,0,8,3,,1,12,1,0,1,2,14,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2013,50,2013-12-09,2013-12-15,,551,0,35,4,,3,42,0,0,1,1,43,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2013,51,2013-12-16,2013-12-22,,752,0,70,3,,14,87,4,2,0,6,93,,Local Outbreak
+Sweden,European Region of WHO,Northern Europe,2013,52,2013-12-23,2013-12-29,,508,0,53,4,,10,67,2,0,2,4,71,,Local Outbreak
+Sweden,European Region of WHO,Northern Europe,2014,1,2013-12-30,2014-01-05,,697,0,75,3,,10,88,1,0,4,5,93,,Local Outbreak
+Sweden,European Region of WHO,Northern Europe,2014,2,2014-01-06,2014-01-12,,672,0,70,5,,10,85,0,0,2,2,87,,Local Outbreak
+Sweden,European Region of WHO,Northern Europe,2014,3,2014-01-13,2014-01-19,,826,0,58,3,,10,71,0,0,4,4,75,,Local Outbreak
+Sweden,European Region of WHO,Northern Europe,2014,4,2014-01-20,2014-01-26,,833,0,85,4,,18,107,0,0,6,6,113,,Local Outbreak
+Sweden,European Region of WHO,Northern Europe,2014,5,2014-01-27,2014-02-02,,909,0,129,5,,22,156,0,0,6,6,162,,Regional Outbreak
+Sweden,European Region of WHO,Northern Europe,2014,6,2014-02-03,2014-02-09,,1131,0,193,20,,34,247,0,0,12,12,259,,Regional Outbreak
+Sweden,European Region of WHO,Northern Europe,2014,7,2014-02-10,2014-02-16,,1397,0,222,35,,42,299,3,0,10,13,312,,Widespread Outbreak
+Sweden,European Region of WHO,Northern Europe,2014,8,2014-02-17,2014-02-23,,1539,0,241,36,,33,310,2,1,16,19,329,,Widespread Outbreak
+Sweden,European Region of WHO,Northern Europe,2014,9,2014-02-24,2014-03-02,,1505,0,168,17,,47,232,0,1,9,10,242,,Widespread Outbreak
+Sweden,European Region of WHO,Northern Europe,2014,10,2014-03-03,2014-03-09,,1333,0,145,17,,31,193,3,0,8,11,204,,Widespread Outbreak
+Sweden,European Region of WHO,Northern Europe,2014,11,2014-03-10,2014-03-16,,1126,0,88,9,,28,125,0,0,13,13,138,,Widespread Outbreak
+Sweden,European Region of WHO,Northern Europe,2014,12,2014-03-17,2014-03-23,,1022,0,61,6,,24,91,2,0,11,13,104,,Regional Outbreak
+Sweden,European Region of WHO,Northern Europe,2014,13,2014-03-24,2014-03-30,,889,0,45,4,,17,66,0,0,18,18,84,,Regional Outbreak
+Sweden,European Region of WHO,Northern Europe,2014,14,2014-03-31,2014-04-06,,791,0,37,3,,24,64,3,0,14,17,81,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2014,15,2014-04-07,2014-04-13,,767,0,25,3,,36,64,2,0,21,23,87,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2014,16,2014-04-14,2014-04-20,,638,0,15,3,,17,35,0,0,18,18,53,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2014,17,2014-04-21,2014-04-27,,541,0,11,2,,13,26,1,0,17,18,44,,Sporadic
+Sweden,European Region of WHO,Northern Europe,2014,18,2014-04-28,2014-05-04,,487,0,1,3,,9,13,0,0,4,4,17,,No Activity
+Sweden,European Region of WHO,Northern Europe,2014,19,2014-05-05,2014-05-11,,406,0,4,4,,5,13,1,0,6,7,20,,No Activity
+Sweden,European Region of WHO,Northern Europe,2014,20,2014-05-12,2014-05-18,,402,0,1,0,,3,4,0,0,3,3,7,,No Activity
+Sweden,European Region of WHO,Northern Europe,2014,39,2014-09-22,2014-09-28,,363,,0,0,,0,0,0,0,0,0,0,,No Report
+Sweden,European Region of WHO,Northern Europe,2014,40,2014-09-29,2014-10-05,,363,0,0,0,,0,0,0,0,0,0,0,,No Report
+Sweden,European Region of WHO,Northern Europe,2014,41,2014-10-06,2014-10-12,,385,0,0,0,,1,1,0,0,0,0,1,,No Report
+Sweden,European Region of WHO,Northern Europe,2014,42,2014-10-13,2014-10-19,,411,0,0,2,,0,2,0,0,0,0,2,,No Report
+Sweden,European Region of WHO,Northern Europe,2014,43,2014-10-20,2014-10-26,,499,0,2,1,,0,3,0,0,5,5,8,,No Report
+Sweden,European Region of WHO,Northern Europe,2014,44,2014-10-27,2014-11-02,,452,0,0,1,,0,1,0,0,1,1,2,,No Report
+Sweden,European Region of WHO,Northern Europe,2014,45,2014-11-03,2014-11-09,,564,0,1,2,,3,6,0,0,3,3,9,,No Report
+Sweden,European Region of WHO,Northern Europe,2014,46,2014-11-10,2014-11-16,,549,0,2,0,,3,5,0,0,1,1,6,,No Report
+Sweden,European Region of WHO,Northern Europe,2014,47,2014-11-17,2014-11-23,,634,0,0,2,,2,4,0,0,0,0,4,,No Report
+Sweden,European Region of WHO,Northern Europe,2014,48,2014-11-24,2014-11-30,,548,0,0,8,,0,8,0,0,3,3,11,,No Report
+Sweden,European Region of WHO,Northern Europe,2014,49,2014-12-01,2014-12-07,,621,0,1,9,,0,10,0,0,2,2,12,,No Report
+Sweden,European Region of WHO,Northern Europe,2014,50,2014-12-08,2014-12-14,,720,0,4,11,,5,20,1,0,5,6,26,,No Report
+Sweden,European Region of WHO,Northern Europe,2014,51,2014-12-15,2014-12-21,,859,0,1,12,,16,29,1,0,11,12,41,,No Report
+Sweden,European Region of WHO,Northern Europe,2014,52,2014-12-22,2014-12-28,,652,0,1,14,,26,41,0,0,7,7,48,,No Report
+Sweden,European Region of WHO,Northern Europe,2015,1,2014-12-29,2015-01-04,,852,0,6,24,,55,85,0,2,18,20,105,,No Report
+Sweden,European Region of WHO,Northern Europe,2015,2,2015-01-05,2015-01-11,,1013,0,12,25,,128,165,0,0,11,11,176,,No Report
+Sweden,European Region of WHO,Northern Europe,2015,3,2015-01-12,2015-01-18,,1217,0,12,53,,162,227,4,0,25,29,256,,No Report
+Sweden,European Region of WHO,Northern Europe,2015,4,2015-01-19,2015-01-25,,1177,0,13,46,,188,247,1,0,32,33,280,,No Report
+Sweden,European Region of WHO,Northern Europe,2015,5,2015-01-26,2015-02-01,,1655,0,22,85,,273,380,2,0,60,62,442,,No Report
+Sweden,European Region of WHO,Northern Europe,2015,6,2015-02-02,2015-02-08,,2059,0,37,134,,354,525,9,0,97,106,631,,No Report
+Sweden,European Region of WHO,Northern Europe,2015,7,2015-02-09,2015-02-15,,2707,0,66,210,,521,797,12,0,169,181,978,,No Report
+Sweden,European Region of WHO,Northern Europe,2015,8,2015-02-16,2015-02-22,,3210,0,85,236,,561,882,13,0,259,272,1154,,No Report
+Sweden,European Region of WHO,Northern Europe,2015,9,2015-02-23,2015-03-01,,3166,0,77,221,,515,813,12,0,288,300,1113,,No Report
+Sweden,European Region of WHO,Northern Europe,2015,10,2015-03-02,2015-03-08,,3043,0,67,249,,453,769,5,0,329,334,1103,,No Report
+Sweden,European Region of WHO,Northern Europe,2015,11,2015-03-09,2015-03-15,,2744,0,70,192,,279,541,16,0,338,354,895,,No Report
+Sweden,European Region of WHO,Northern Europe,2015,12,2015-03-16,2015-03-22,,2267,0,45,138,,130,313,12,0,317,329,642,,No Report
+Sweden,European Region of WHO,Northern Europe,2015,13,2015-03-23,2015-03-29,,2224,0,49,102,,134,285,15,0,348,363,648,,No Report
+Sweden,European Region of WHO,Northern Europe,2015,14,2015-03-30,2015-04-05,,1919,0,41,125,,64,230,7,0,375,382,612,,No Report
+Sweden,European Region of WHO,Northern Europe,2015,15,2015-04-06,2015-04-12,,1814,0,31,110,,61,202,6,0,353,359,561,,No Report
+Sweden,European Region of WHO,Northern Europe,2015,16,2015-04-13,2015-04-19,,1735,0,18,67,,25,110,4,0,234,238,348,,No Report
+Sweden,European Region of WHO,Northern Europe,2015,17,2015-04-20,2015-04-26,,1337,0,9,57,,10,76,6,0,190,196,272,,No Report
+Sweden,European Region of WHO,Northern Europe,2015,18,2015-04-27,2015-05-03,,958,0,11,38,,4,53,0,0,112,112,165,,No Report
+Sweden,European Region of WHO,Northern Europe,2015,19,2015-05-04,2015-05-10,,897,0,5,32,,6,43,0,0,78,78,121,,No Report
+Sweden,European Region of WHO,Northern Europe,2015,20,2015-05-11,2015-05-17,,647,0,0,5,,0,5,0,0,42,42,47,,No Report
+Sweden,European Region of WHO,Northern Europe,2015,21,2015-05-18,2015-05-24,,0,0,0,0,,9,9,0,0,21,21,30,,No Report
+Sweden,European Region of WHO,Northern Europe,2015,22,2015-05-25,2015-05-31,,0,0,1,0,,2,3,0,0,10,10,13,,No Report
+Sweden,European Region of WHO,Northern Europe,2015,23,2015-06-01,2015-06-07,,0,0,0,0,,1,1,0,0,6,6,7,,No Report
+Sweden,European Region of WHO,Northern Europe,2015,24,2015-06-08,2015-06-14,,0,0,0,0,,1,1,0,0,7,7,8,,No Report
+Sweden,European Region of WHO,Northern Europe,2015,25,2015-06-15,2015-06-21,,0,0,0,0,,2,2,0,0,0,0,2,,No Report
+Sweden,European Region of WHO,Northern Europe,2015,26,2015-06-22,2015-06-28,,0,0,0,0,,0,0,0,0,2,2,2,,No Report
+Sweden,European Region of WHO,Northern Europe,2015,27,2015-06-29,2015-07-05,,0,0,0,0,,1,1,0,0,1,1,2,,No Report
+Sweden,European Region of WHO,Northern Europe,2015,28,2015-07-06,2015-07-12,,0,0,0,0,,2,2,0,0,0,0,2,,No Report
+Sweden,European Region of WHO,Northern Europe,2015,29,2015-07-13,2015-07-19,,0,0,0,0,,0,0,0,0,0,0,0,,No Report
+Sweden,European Region of WHO,Northern Europe,2015,30,2015-07-20,2015-07-26,,0,0,0,0,,0,0,0,0,0,0,0,,No Report
+Sweden,European Region of WHO,Northern Europe,2015,31,2015-07-27,2015-08-02,,0,0,0,0,,1,1,0,0,1,1,2,,No Report
+Sweden,European Region of WHO,Northern Europe,2015,32,2015-08-03,2015-08-09,,0,0,2,0,,0,2,0,0,0,0,2,,No Report
+Sweden,European Region of WHO,Northern Europe,2015,33,2015-08-10,2015-08-16,,0,0,0,0,,0,0,0,0,0,0,0,,No Report
+Sweden,European Region of WHO,Northern Europe,2015,34,2015-08-17,2015-08-23,,0,0,0,0,,0,0,0,0,0,0,0,,No Report
+Sweden,European Region of WHO,Northern Europe,2015,35,2015-08-24,2015-08-30,,0,0,1,0,,0,1,0,0,0,0,1,,No Report
+Sweden,European Region of WHO,Northern Europe,2015,36,2015-08-31,2015-09-06,,0,0,1,0,,0,1,0,0,0,0,1,,No Report
+Sweden,European Region of WHO,Northern Europe,2015,38,2015-09-14,2015-09-20,,0,0,0,0,,0,0,0,0,0,0,0,,No Report
+Sweden,European Region of WHO,Northern Europe,2015,39,2015-09-21,2015-09-27,,0,0,1,0,,0,1,0,0,0,0,1,,No Report
+Sweden,European Region of WHO,Northern Europe,2015,40,2015-09-28,2015-10-04,,371,0,0,3,,1,4,0,0,0,0,4,,No Report
+Sweden,European Region of WHO,Northern Europe,2015,41,2015-10-05,2015-10-11,,414,0,1,3,,2,6,0,0,2,2,8,,No Report
+Sweden,European Region of WHO,Northern Europe,2015,42,2015-10-12,2015-10-18,,470,0,4,1,,1,6,0,0,0,0,6,,No Report
+Sweden,European Region of WHO,Northern Europe,2015,43,2015-10-19,2015-10-25,,458,0,5,4,,0,9,0,0,0,0,9,,No Report
+Sweden,European Region of WHO,Northern Europe,2015,44,2015-10-26,2015-11-01,,448,0,2,2,,0,4,0,0,0,0,4,,No Report
+Sweden,European Region of WHO,Northern Europe,2015,45,2015-11-02,2015-11-08,,547,0,8,0,,3,11,0,0,0,0,11,,No Report
+Sweden,European Region of WHO,Northern Europe,2015,46,2015-11-09,2015-11-15,,587,0,16,2,,3,21,0,0,2,2,23,,No Report
+Sweden,European Region of WHO,Northern Europe,2015,47,2015-11-16,2015-11-22,,684,0,23,5,,13,41,1,0,3,4,45,,No Report
+Sweden,European Region of WHO,Northern Europe,2015,48,2015-11-23,2015-11-29,,779,0,13,6,,30,49,0,0,0,0,49,,No Report
+Sweden,European Region of WHO,Northern Europe,2015,49,2015-11-30,2015-12-06,,917,0,22,4,,65,91,0,0,1,1,92,,No Report
+Sweden,European Region of WHO,Northern Europe,2015,50,2015-12-07,2015-12-13,,1072,0,27,9,,88,124,0,2,2,4,128,,No Report
+Sweden,European Region of WHO,Northern Europe,2015,51,2015-12-14,2015-12-20,,1204,0,42,2,,139,183,0,0,3,3,186,,No Report
+Sweden,European Region of WHO,Northern Europe,2015,52,2015-12-21,2015-12-27,,1287,0,100,5,,166,271,0,0,2,2,273,,No Report
+Sweden,European Region of WHO,Northern Europe,2015,53,2015-12-28,2016-01-03,,1585,0,101,3,,166,270,0,2,8,10,280,,No Report
+Sweden,European Region of WHO,Northern Europe,2016,1,2016-01-04,2016-01-10,,1733,0,57,4,,207,268,2,0,10,12,280,,No Report
+Sweden,European Region of WHO,Northern Europe,2016,2,2016-01-11,2016-01-17,,1790,0,66,4,,195,265,0,0,14,14,279,,No Report
+Sweden,European Region of WHO,Northern Europe,2016,3,2016-01-18,2016-01-24,,1842,0,112,0,,327,439,0,1,22,23,462,,No Report
+Sweden,European Region of WHO,Northern Europe,2016,4,2016-01-25,2016-01-31,,2332,0,209,4,,512,725,1,4,38,43,768,,No Report
+Sweden,European Region of WHO,Northern Europe,2016,5,2016-02-01,2016-02-07,,3017,0,280,5,,609,894,0,14,42,56,950,,No Report
+Sweden,European Region of WHO,Northern Europe,2016,6,2016-02-08,2016-02-14,,3223,0,300,8,,624,932,0,8,96,104,1036,,No Report
+Sweden,European Region of WHO,Northern Europe,2016,7,2016-02-15,2016-02-21,,3312,0,239,10,,483,732,0,15,103,118,850,,No Report
+Sweden,European Region of WHO,Northern Europe,2016,8,2016-02-22,2016-02-28,,3217,0,205,10,,309,524,0,20,169,189,713,,No Report
+Sweden,European Region of WHO,Northern Europe,2016,9,2016-02-29,2016-03-06,,2927,0,132,4,,247,383,2,14,240,256,639,,No Report
+Sweden,European Region of WHO,Northern Europe,2016,10,2016-03-07,2016-03-13,,2441,0,75,6,,167,248,2,10,267,279,527,,No Report
+Sweden,European Region of WHO,Northern Europe,2016,11,2016-03-14,2016-03-20,,2078,0,3,0,,147,150,0,8,282,290,440,,No Report
+Sweden,European Region of WHO,Northern Europe,2016,12,2016-03-21,2016-03-27,,1940,0,1,0,,111,112,1,8,291,300,412,,No Report
+Sweden,European Region of WHO,Northern Europe,2016,13,2016-03-28,2016-04-03,,1772,0,1,0,,78,79,2,3,252,257,336,,No Report
+Sweden,European Region of WHO,Northern Europe,2016,14,2016-04-04,2016-04-10,,1499,0,1,0,,43,44,0,2,179,181,225,,No Report
+Sweden,European Region of WHO,Northern Europe,2016,15,2016-04-11,2016-04-17,,1251,0,0,0,,15,15,0,0,116,116,131,,No Report
+Sweden,European Region of WHO,Northern Europe,2016,16,2016-04-18,2016-04-24,,1122,0,0,0,,15,15,0,2,73,75,90,,No Report
+Sweden,European Region of WHO,Northern Europe,2016,17,2016-04-25,2016-05-01,,975,0,0,0,,5,5,0,0,54,54,59,,No Report
+Sweden,European Region of WHO,Northern Europe,2016,18,2016-05-02,2016-05-08,,670,0,0,0,,12,12,1,1,48,50,62,,No Report
+Sweden,European Region of WHO,Northern Europe,2016,19,2016-05-09,2016-05-15,,681,0,0,0,,6,6,0,0,32,32,38,,No Report
+Sweden,European Region of WHO,Northern Europe,2016,20,2016-05-16,2016-05-22,,591,0,0,0,,3,3,0,0,30,30,33,,No Report
+Sweden,European Region of WHO,Northern Europe,2016,21,2016-05-23,2016-05-29,,0,0,0,0,,3,3,0,0,12,12,15,,No Report
+Sweden,European Region of WHO,Northern Europe,2016,22,2016-05-30,2016-06-05,,0,0,0,0,,0,0,0,0,7,7,7,,No Report
+Sweden,European Region of WHO,Northern Europe,2016,23,2016-06-06,2016-06-12,,0,0,0,0,,4,4,0,0,1,1,5,,No Report
+Sweden,European Region of WHO,Northern Europe,2016,24,2016-06-13,2016-06-19,,0,0,0,0,,1,1,0,0,3,3,4,,No Report
+Sweden,European Region of WHO,Northern Europe,2016,25,2016-06-20,2016-06-26,,0,0,0,0,,1,1,0,0,0,0,1,,No Report
+Sweden,European Region of WHO,Northern Europe,2016,26,2016-06-27,2016-07-03,,0,0,0,0,,0,0,0,0,0,0,0,,No Report
+Sweden,European Region of WHO,Northern Europe,2016,27,2016-07-04,2016-07-10,,0,0,0,0,,1,1,0,0,0,0,1,,No Report
+Sweden,European Region of WHO,Northern Europe,2016,28,2016-07-11,2016-07-17,,0,0,0,0,,2,2,0,0,0,0,2,,No Report
+Sweden,European Region of WHO,Northern Europe,2016,29,2016-07-18,2016-07-24,,0,0,0,0,,3,3,0,0,0,0,3,,No Report
+Sweden,European Region of WHO,Northern Europe,2016,30,2016-07-25,2016-07-31,,0,0,0,0,,0,0,0,0,0,0,0,,No Report
+Sweden,European Region of WHO,Northern Europe,2016,31,2016-08-01,2016-08-07,,0,0,0,0,,0,0,0,0,0,0,0,,No Report
+Sweden,European Region of WHO,Northern Europe,2016,32,2016-08-08,2016-08-14,,0,0,0,0,,1,1,0,0,0,0,1,,No Report
+Sweden,European Region of WHO,Northern Europe,2016,33,2016-08-15,2016-08-21,,0,0,0,0,,0,0,0,0,2,2,2,,No Report
+Sweden,European Region of WHO,Northern Europe,2016,34,2016-08-22,2016-08-28,,0,0,0,0,,1,1,0,0,2,2,3,,No Report
+Sweden,European Region of WHO,Northern Europe,2016,35,2016-08-29,2016-09-04,,0,0,0,0,,4,4,0,0,0,0,4,,No Report
+Sweden,European Region of WHO,Northern Europe,2016,36,2016-09-05,2016-09-11,,0,0,0,0,,6,6,0,0,1,1,7,,No Report
+Sweden,European Region of WHO,Northern Europe,2016,37,2016-09-12,2016-09-18,,0,0,0,0,,2,2,0,0,0,0,2,,No Report
+Sweden,European Region of WHO,Northern Europe,2016,38,2016-09-19,2016-09-25,,0,0,0,0,,2,2,0,0,0,0,2,,No Report
+Sweden,European Region of WHO,Northern Europe,2016,39,2016-09-26,2016-10-02,,0,0,0,0,,5,5,0,0,0,0,5,,No Report
+Sweden,European Region of WHO,Northern Europe,2016,40,2016-10-03,2016-10-09,,543,0,0,0,,13,13,0,0,0,0,13,,No Report
+Sweden,European Region of WHO,Northern Europe,2016,41,2016-10-10,2016-10-16,,598,0,0,0,,6,6,0,0,1,1,7,,No Report
+Sweden,European Region of WHO,Northern Europe,2016,42,2016-10-17,2016-10-23,,695,0,0,1,,4,5,0,0,0,0,5,,No Report
+Sweden,European Region of WHO,Northern Europe,2016,43,2016-10-24,2016-10-30,,703,0,0,0,,4,4,0,0,0,0,4,,No Report
+Sweden,European Region of WHO,Northern Europe,2016,44,2016-10-31,2016-11-06,,641,0,0,1,,7,8,0,0,1,1,9,,No Report
+Sweden,European Region of WHO,Northern Europe,2016,45,2016-11-07,2016-11-13,,813,0,0,0,,35,35,0,0,4,4,39,,No Report
+Sweden,European Region of WHO,Northern Europe,2016,46,2016-11-14,2016-11-20,,946,0,0,1,,60,61,0,0,2,2,63,,No Report
+Sweden,European Region of WHO,Northern Europe,2016,47,2016-11-21,2016-11-27,,1198,0,0,1,,102,103,0,0,0,0,103,,No Report
+Sweden,European Region of WHO,Northern Europe,2016,48,2016-11-28,2016-12-04,,1357,0,0,5,,176,181,0,0,2,2,183,,No Report
+Sweden,European Region of WHO,Northern Europe,2016,49,2016-12-05,2016-12-11,,1870,0,0,3,,348,351,0,0,4,4,355,,No Report
+Sweden,European Region of WHO,Northern Europe,2016,50,2016-12-12,2016-12-18,,2427,0,0,7,,531,538,0,0,5,5,543,,No Report
+Sweden,European Region of WHO,Northern Europe,2016,51,2016-12-19,2016-12-25,,3502,0,0,15,,1050,1065,0,1,6,7,1072,,No Report
+Sweden,European Region of WHO,Northern Europe,2016,52,2016-12-26,2017-01-01,,4034,0,0,24,,1339,1363,0,0,6,6,1369,,No Report
+Sweden,European Region of WHO,Northern Europe,2017,1,2017-01-02,2017-01-08,,4016,0,0,15,,921,936,0,0,8,8,944,,No Report
+Sweden,European Region of WHO,Northern Europe,2017,2,2017-01-09,2017-01-15,,3821,0,0,12,,747,759,0,0,5,5,764,,No Report
+Sweden,European Region of WHO,Northern Europe,2017,3,2017-01-16,2017-01-22,,3152,0,0,8,,610,618,0,0,10,10,628,,No Report
+Sweden,European Region of WHO,Northern Europe,2017,4,2017-01-23,2017-01-29,,2955,0,0,11,,639,650,0,0,7,7,657,,No Report
+Sweden,European Region of WHO,Northern Europe,2017,5,2017-01-30,2017-02-05,,3173,0,0,8,,752,760,0,0,10,10,770,,No Report
+Sweden,European Region of WHO,Northern Europe,2017,6,2017-02-06,2017-02-12,,3374,0,2,11,,835,848,0,0,13,13,861,,No Report
+Sweden,European Region of WHO,Northern Europe,2017,7,2017-02-13,2017-02-19,,3447,0,0,14,,899,913,0,0,9,9,922,,No Report
+Sweden,European Region of WHO,Northern Europe,2017,8,2017-02-20,2017-02-26,,3792,0,0,12,,915,927,0,0,19,19,946,,No Report
+Sweden,European Region of WHO,Northern Europe,2017,9,2017-02-27,2017-03-05,,3429,0,0,9,,682,691,0,0,23,23,714,,No Report
+Sweden,European Region of WHO,Northern Europe,2017,10,2017-03-06,2017-03-12,,3024,0,0,7,,452,459,1,0,25,26,485,,No Report
+Sweden,European Region of WHO,Northern Europe,2017,11,2017-03-13,2017-03-19,,2564,0,0,4,,357,361,0,0,26,26,387,,No Report
+Sweden,European Region of WHO,Northern Europe,2017,12,2017-03-20,2017-03-26,,2158,0,0,4,,263,267,0,0,35,35,302,,No Report
+Sweden,European Region of WHO,Northern Europe,2017,13,2017-03-27,2017-04-02,,2097,0,0,0,,206,206,0,0,45,45,251,,No Report
+Sweden,European Region of WHO,Northern Europe,2017,14,2017-04-03,2017-04-09,,1627,0,0,1,,157,158,0,0,60,60,218,,No Report
+Sweden,European Region of WHO,Northern Europe,2017,15,2017-04-10,2017-04-16,,1459,0,0,0,,105,105,2,0,43,45,150,,No Report
+Sweden,European Region of WHO,Northern Europe,2017,16,2017-04-17,2017-04-23,,1324,0,0,0,,59,59,0,0,44,44,103,,No Report
+Sweden,European Region of WHO,Northern Europe,2017,17,2017-04-24,2017-04-30,,1344,0,0,0,,42,42,0,0,62,62,104,,No Report
+Sweden,European Region of WHO,Northern Europe,2017,18,2017-05-01,2017-05-07,,1010,0,0,0,,24,24,0,0,68,68,92,,No Report
+Sweden,European Region of WHO,Northern Europe,2017,19,2017-05-08,2017-05-14,,1020,0,0,0,,14,14,0,0,83,83,97,,No Report
+Sweden,European Region of WHO,Northern Europe,2017,20,2017-05-15,2017-05-21,,881,0,0,0,,17,17,0,0,82,82,99,,No Report
+Sweden,European Region of WHO,Northern Europe,2017,21,2017-05-22,2017-05-28,,0,0,0,0,,9,9,0,0,52,52,61,,No Report
+Sweden,European Region of WHO,Northern Europe,2017,22,2017-05-29,2017-06-04,,0,0,0,0,,4,4,0,0,25,25,29,,No Report
+Sweden,European Region of WHO,Northern Europe,2017,23,2017-06-05,2017-06-11,,0,0,0,0,,2,2,0,0,19,19,21,,No Report
+Sweden,European Region of WHO,Northern Europe,2017,24,2017-06-12,2017-06-18,,0,0,0,0,,11,11,0,0,14,14,25,,No Report
+Sweden,European Region of WHO,Northern Europe,2017,25,2017-06-19,2017-06-25,,0,0,0,0,,6,6,0,0,5,5,11,,No Report
+Sweden,European Region of WHO,Northern Europe,2017,26,2017-06-26,2017-07-02,,0,0,0,0,,2,2,0,0,2,2,4,,No Report
+Sweden,European Region of WHO,Northern Europe,2017,27,2017-07-03,2017-07-09,,0,0,0,0,,2,2,0,0,1,1,3,,No Report
+Sweden,European Region of WHO,Northern Europe,2017,28,2017-07-10,2017-07-16,,0,0,0,0,,5,5,0,0,1,1,6,,No Report
+Sweden,European Region of WHO,Northern Europe,2017,29,2017-07-17,2017-07-23,,0,0,0,0,,4,4,0,0,1,1,5,,No Report
+Sweden,European Region of WHO,Northern Europe,2017,30,2017-07-24,2017-07-30,,0,0,0,0,,2,2,0,0,2,2,4,,No Report
+Sweden,European Region of WHO,Northern Europe,2017,31,2017-07-31,2017-08-06,,0,0,0,0,,1,1,0,0,3,3,4,,No Report
+Sweden,European Region of WHO,Northern Europe,2017,32,2017-08-07,2017-08-13,,0,0,0,0,,2,2,0,0,2,2,4,,No Report
+Sweden,European Region of WHO,Northern Europe,2017,33,2017-08-14,2017-08-20,,0,0,0,0,,1,1,0,0,0,0,1,,No Report
+Sweden,European Region of WHO,Northern Europe,2017,34,2017-08-21,2017-08-27,,0,0,0,0,,1,1,0,0,1,1,2,,No Report
+Sweden,European Region of WHO,Northern Europe,2017,35,2017-08-28,2017-09-03,,0,0,0,0,,4,4,0,0,5,5,9,,No Report
+Sweden,European Region of WHO,Northern Europe,2017,36,2017-09-04,2017-09-10,,0,0,0,0,,1,1,0,0,1,1,2,,No Report
+Sweden,European Region of WHO,Northern Europe,2017,37,2017-09-11,2017-09-17,,0,0,0,0,,3,3,0,0,1,1,4,,No Report
+Sweden,European Region of WHO,Northern Europe,2017,38,2017-09-18,2017-09-24,,0,0,0,0,,5,5,0,0,2,2,7,,No Report
+Sweden,European Region of WHO,Northern Europe,2017,39,2017-09-25,2017-10-01,,0,0,0,0,,4,4,0,0,0,0,4,,No Report
+Sweden,European Region of WHO,Northern Europe,2017,40,2017-10-02,2017-10-08,,652,0,0,0,,10,10,0,0,0,0,10,,No Report
+Sweden,European Region of WHO,Northern Europe,2017,41,2017-10-09,2017-10-15,,782,0,0,0,,7,7,0,0,4,4,11,,No Report
+Sweden,European Region of WHO,Northern Europe,2017,42,2017-10-16,2017-10-22,,761,0,0,0,,3,3,0,0,1,1,4,,No Report
+Sweden,European Region of WHO,Northern Europe,2017,43,2017-10-23,2017-10-29,,790,0,0,0,,5,5,0,0,4,4,9,,No Report
+Sweden,European Region of WHO,Northern Europe,2017,44,2017-10-30,2017-11-05,,909,0,0,0,,8,8,0,0,3,3,11,,No Report
+Sweden,European Region of WHO,Northern Europe,2017,45,2017-11-06,2017-11-12,,1044,0,0,0,,23,23,2,0,2,4,27,,No Report
+Sweden,European Region of WHO,Northern Europe,2017,46,2017-11-13,2017-11-19,,1091,0,0,0,,38,38,0,0,10,10,48,,No Report
+Sweden,European Region of WHO,Northern Europe,2017,47,2017-11-20,2017-11-26,,1381,0,0,3,,48,51,1,0,20,21,72,,No Report
+Sweden,European Region of WHO,Northern Europe,2017,48,2017-11-27,2017-12-03,,1460,0,1,1,,33,35,0,0,33,33,68,,No Report
+Sweden,European Region of WHO,Northern Europe,2017,49,2017-12-04,2017-12-10,,1672,0,0,2,,48,50,3,0,70,73,123,,No Report
+Sweden,European Region of WHO,Northern Europe,2017,50,2017-12-11,2017-12-17,,2064,0,1,4,,66,71,6,0,125,131,202,,No Report
+Sweden,European Region of WHO,Northern Europe,2017,51,2017-12-18,2017-12-24,,2293,0,1,3,,125,129,14,0,212,226,355,,No Report
+Sweden,European Region of WHO,Northern Europe,2017,52,2017-12-25,2017-12-31,,2913,0,0,0,,123,123,13,0,466,479,602,,No Report
+Sweden,European Region of WHO,Northern Europe,2018,1,2018-01-01,2018-01-07,,3150,0,0,0,,107,107,16,0,536,552,659,,No Report
+

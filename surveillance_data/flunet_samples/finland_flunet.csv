@@ -1,0 +1,500 @@
+﻿textbox22
+generated on 25/06/2018 02:33:00 UTC
+
+Country,WHOREGION,FLUREGION,Year,Week,SDATE,EDATE,SPEC_RECEIVED_NB,SPEC_PROCESSED_NB,AH1,AH1N12009,AH3,AH5,ANOTSUBTYPED,INF_A,BYAMAGATA,BVICTORIA,BNOTDETERMINED,INF_B,ALL_INF,ALL_INF2,TITLE
+Finland,European Region of WHO,Northern Europe,2006,1,2006-01-02,2006-01-08,,,0,,1,,0,1,,,0,0,1,,Sporadic
+Finland,European Region of WHO,Northern Europe,2006,2,2006-01-09,2006-01-15,,,0,,0,,0,0,,,0,0,0,,No Activity
+Finland,European Region of WHO,Northern Europe,2006,3,2006-01-16,2006-01-22,,,0,,0,,1,1,,,0,0,1,,Sporadic
+Finland,European Region of WHO,Northern Europe,2006,4,2006-01-23,2006-01-29,,,0,,1,,2,3,,,0,0,3,,Sporadic
+Finland,European Region of WHO,Northern Europe,2006,5,2006-01-30,2006-02-05,,,0,,0,,0,0,,,0,0,0,,Sporadic
+Finland,European Region of WHO,Northern Europe,2006,6,2006-02-06,2006-02-12,,,0,,0,,0,0,,,0,0,0,,Sporadic
+Finland,European Region of WHO,Northern Europe,2006,7,2006-02-13,2006-02-19,,,0,,0,,1,1,,,7,7,8,,Local Outbreak
+Finland,European Region of WHO,Northern Europe,2006,8,2006-02-20,2006-02-26,,,0,,3,,0,3,,,7,7,10,,Local Outbreak
+Finland,European Region of WHO,Northern Europe,2006,9,2006-02-27,2006-03-05,,,0,,11,,1,12,,,23,23,35,,Local Outbreak
+Finland,European Region of WHO,Northern Europe,2006,10,2006-03-06,2006-03-12,,,0,,10,,1,11,,,1,1,12,,Local Outbreak
+Finland,European Region of WHO,Northern Europe,2006,11,2006-03-13,2006-03-19,,,0,,9,,3,12,,,7,7,19,,Local Outbreak
+Finland,European Region of WHO,Northern Europe,2006,12,2006-03-20,2006-03-26,,,1,,2,,1,4,,,18,18,22,,Local Outbreak
+Finland,European Region of WHO,Northern Europe,2006,13,2006-03-27,2006-04-02,,,0,,6,,1,7,,,5,5,12,,Local Outbreak
+Finland,European Region of WHO,Northern Europe,2006,14,2006-04-03,2006-04-09,,,0,,7,,2,9,,,9,9,18,,Local Outbreak
+Finland,European Region of WHO,Northern Europe,2006,15,2006-04-10,2006-04-16,,,5,,3,,2,10,,,7,7,17,,Local Outbreak
+Finland,European Region of WHO,Northern Europe,2006,16,2006-04-17,2006-04-23,,,2,,1,,3,6,,,2,2,8,,Local Outbreak
+Finland,European Region of WHO,Northern Europe,2006,17,2006-04-24,2006-04-30,,,0,,0,,0,0,,,0,0,0,,Sporadic
+Finland,European Region of WHO,Northern Europe,2006,18,2006-05-01,2006-05-07,,,0,,3,,1,4,,,0,0,4,,Sporadic
+Finland,European Region of WHO,Northern Europe,2006,37,2006-09-11,2006-09-17,,,0,,0,,0,0,,,0,0,0,,No Activity
+Finland,European Region of WHO,Northern Europe,2006,38,2006-09-18,2006-09-24,,,0,,0,,0,0,,,0,0,0,,No Activity
+Finland,European Region of WHO,Northern Europe,2006,39,2006-09-25,2006-10-01,,,0,,0,,0,0,,,0,0,0,,No Activity
+Finland,European Region of WHO,Northern Europe,2006,40,2006-10-02,2006-10-08,,,0,,0,,0,0,,,0,0,0,,No Activity
+Finland,European Region of WHO,Northern Europe,2006,41,2006-10-09,2006-10-15,,,0,,0,,0,0,,,0,0,0,,No Activity
+Finland,European Region of WHO,Northern Europe,2006,42,2006-10-16,2006-10-22,,,0,,0,,0,0,,,0,0,0,,No Activity
+Finland,European Region of WHO,Northern Europe,2006,43,2006-10-23,2006-10-29,,,0,,0,,0,0,,,0,0,0,,No Activity
+Finland,European Region of WHO,Northern Europe,2006,44,2006-10-30,2006-11-05,,,0,,0,,0,0,,,0,0,0,,No Activity
+Finland,European Region of WHO,Northern Europe,2006,45,2006-11-06,2006-11-12,,,0,,0,,0,0,,,0,0,0,,No Activity
+Finland,European Region of WHO,Northern Europe,2006,46,2006-11-13,2006-11-19,,,0,,0,,0,0,,,0,0,0,,No Activity
+Finland,European Region of WHO,Northern Europe,2006,47,2006-11-20,2006-11-26,,,0,,0,,0,0,,,0,0,0,,No Activity
+Finland,European Region of WHO,Northern Europe,2006,48,2006-11-27,2006-12-03,,,0,,0,,0,0,,,0,0,0,,No Activity
+Finland,European Region of WHO,Northern Europe,2006,49,2006-12-04,2006-12-10,,,0,,0,,0,0,,,0,0,0,,No Activity
+Finland,European Region of WHO,Northern Europe,2006,50,2006-12-11,2006-12-17,,,0,,0,,0,0,,,0,0,0,,No Activity
+Finland,European Region of WHO,Northern Europe,2006,51,2006-12-18,2006-12-24,,,0,,0,,0,0,,,0,0,0,,No Activity
+Finland,European Region of WHO,Northern Europe,2007,1,2007-01-01,2007-01-07,,,0,,0,,1,1,,,0,0,1,,Sporadic
+Finland,European Region of WHO,Northern Europe,2007,2,2007-01-08,2007-01-14,,,0,,2,,0,2,,,0,0,2,,Local Outbreak
+Finland,European Region of WHO,Northern Europe,2007,3,2007-01-15,2007-01-21,,,0,,5,,2,7,,,0,0,7,,Local Outbreak
+Finland,European Region of WHO,Northern Europe,2007,4,2007-01-22,2007-01-28,,,0,,6,,3,9,,,0,0,9,,Local Outbreak
+Finland,European Region of WHO,Northern Europe,2007,5,2007-01-29,2007-02-04,,,0,,13,,0,13,,,0,0,13,,Local Outbreak
+Finland,European Region of WHO,Northern Europe,2007,6,2007-02-05,2007-02-11,,,0,,29,,11,40,,,0,0,40,,Widespread Outbreak
+Finland,European Region of WHO,Northern Europe,2007,7,2007-02-12,2007-02-18,,,0,,16,,2,18,,,0,0,18,,Widespread Outbreak
+Finland,European Region of WHO,Northern Europe,2007,8,2007-02-19,2007-02-25,,,0,,14,,4,18,,,1,1,19,,Widespread Outbreak
+Finland,European Region of WHO,Northern Europe,2007,9,2007-02-26,2007-03-04,,,0,,8,,1,9,,,2,2,11,,Regional Outbreak
+Finland,European Region of WHO,Northern Europe,2007,10,2007-03-05,2007-03-11,,,1,,3,,3,7,,,0,0,7,,Regional Outbreak
+Finland,European Region of WHO,Northern Europe,2007,11,2007-03-12,2007-03-18,,,0,,3,,0,3,,,0,0,3,,Sporadic
+Finland,European Region of WHO,Northern Europe,2007,12,2007-03-19,2007-03-25,,,0,,2,,1,3,,,0,0,3,,Sporadic
+Finland,European Region of WHO,Northern Europe,2007,13,2007-03-26,2007-04-01,,,0,,4,,2,6,,,0,0,6,,Sporadic
+Finland,European Region of WHO,Northern Europe,2007,14,2007-04-02,2007-04-08,,,0,,0,,1,1,,,0,0,1,,Sporadic
+Finland,European Region of WHO,Northern Europe,2007,15,2007-04-09,2007-04-15,,,0,,0,,0,0,,,0,0,0,,No Activity
+Finland,European Region of WHO,Northern Europe,2007,16,2007-04-16,2007-04-22,,,0,,0,,0,0,,,0,0,0,,No Activity
+Finland,European Region of WHO,Northern Europe,2007,17,2007-04-23,2007-04-29,,,0,,0,,0,0,,,0,0,0,,No Activity
+Finland,European Region of WHO,Northern Europe,2007,37,2007-09-10,2007-09-16,,,0,,0,,0,0,,,0,0,0,,No Activity
+Finland,European Region of WHO,Northern Europe,2007,38,2007-09-17,2007-09-23,,,0,,0,,0,0,,,0,0,0,,No Activity
+Finland,European Region of WHO,Northern Europe,2007,39,2007-09-24,2007-09-30,,,0,,0,,0,0,,,0,0,0,,No Activity
+Finland,European Region of WHO,Northern Europe,2007,40,2007-10-01,2007-10-07,,,0,,0,,0,0,,,0,0,0,,No Activity
+Finland,European Region of WHO,Northern Europe,2007,41,2007-10-08,2007-10-14,,,0,,0,,0,0,,,0,0,0,,No Activity
+Finland,European Region of WHO,Northern Europe,2007,42,2007-10-15,2007-10-21,,,0,,0,,0,0,,,0,0,0,,No Activity
+Finland,European Region of WHO,Northern Europe,2007,43,2007-10-22,2007-10-28,,2,0,,0,,0,0,,,0,0,0,,No Activity
+Finland,European Region of WHO,Northern Europe,2007,44,2007-10-29,2007-11-04,,12,0,,0,,0,0,,,0,0,0,,No Activity
+Finland,European Region of WHO,Northern Europe,2007,45,2007-11-05,2007-11-11,,21,0,,0,,0,0,,,0,0,0,,No Activity
+Finland,European Region of WHO,Northern Europe,2007,46,2007-11-12,2007-11-18,,20,0,,0,,0,0,,,0,0,0,,No Activity
+Finland,European Region of WHO,Northern Europe,2007,47,2007-11-19,2007-11-25,,13,0,,0,,0,0,,,0,0,0,,No Activity
+Finland,European Region of WHO,Northern Europe,2007,48,2007-11-26,2007-12-02,,11,0,,0,,0,0,,,0,0,0,,No Activity
+Finland,European Region of WHO,Northern Europe,2007,49,2007-12-03,2007-12-09,,14,0,,0,,0,0,,,0,0,0,,No Activity
+Finland,European Region of WHO,Northern Europe,2007,50,2007-12-10,2007-12-16,,18,0,,0,,0,0,,,0,0,0,,Sporadic
+Finland,European Region of WHO,Northern Europe,2007,51,2007-12-17,2007-12-23,,18,0,,0,,0,0,,,1,1,1,,Sporadic
+Finland,European Region of WHO,Northern Europe,2007,52,2007-12-24,2007-12-30,,9,0,,0,,0,0,,,1,1,1,,Sporadic
+Finland,European Region of WHO,Northern Europe,2008,1,2007-12-31,2008-01-06,,8,2,,1,,0,3,,,0,0,3,,Sporadic
+Finland,European Region of WHO,Northern Europe,2008,2,2008-01-07,2008-01-13,,38,19,,2,,2,23,,,2,2,25,,Local Outbreak
+Finland,European Region of WHO,Northern Europe,2008,3,2008-01-14,2008-01-20,,79,62,,5,,7,74,,,0,0,74,,Regional Outbreak
+Finland,European Region of WHO,Northern Europe,2008,4,2008-01-21,2008-01-27,,40,26,,3,,2,31,,,1,1,32,,Regional Outbreak
+Finland,European Region of WHO,Northern Europe,2008,5,2008-01-28,2008-02-03,,52,24,,1,,0,25,,,3,3,28,,Regional Outbreak
+Finland,European Region of WHO,Northern Europe,2008,6,2008-02-04,2008-02-10,,31,13,,0,,0,13,,,2,2,15,,Regional Outbreak
+Finland,European Region of WHO,Northern Europe,2008,7,2008-02-11,2008-02-17,,37,13,,0,,0,13,,,7,7,20,,Regional Outbreak
+Finland,European Region of WHO,Northern Europe,2008,8,2008-02-18,2008-02-24,,26,3,,0,,0,3,,,4,4,7,,Regional Outbreak
+Finland,European Region of WHO,Northern Europe,2008,9,2008-02-25,2008-03-02,,26,9,,0,,0,9,,,4,4,13,,Local Outbreak
+Finland,European Region of WHO,Northern Europe,2008,10,2008-03-03,2008-03-09,,29,4,,0,,0,4,,,3,3,7,,Local Outbreak
+Finland,European Region of WHO,Northern Europe,2008,11,2008-03-10,2008-03-16,,17,0,,0,,0,0,,,3,3,3,,Sporadic
+Finland,European Region of WHO,Northern Europe,2008,12,2008-03-17,2008-03-23,,24,0,,0,,2,2,,,8,8,10,,Local Outbreak
+Finland,European Region of WHO,Northern Europe,2008,40,2008-09-29,2008-10-05,,3,0,,0,,0,0,0,0,0,0,0,,No Activity
+Finland,European Region of WHO,Northern Europe,2008,41,2008-10-06,2008-10-12,,2,0,,0,,0,0,0,0,0,0,0,,No Activity
+Finland,European Region of WHO,Northern Europe,2008,42,2008-10-13,2008-10-19,,5,0,,0,,0,0,0,0,0,0,0,,No Activity
+Finland,European Region of WHO,Northern Europe,2008,43,2008-10-20,2008-10-26,,14,0,,0,,0,0,0,0,0,0,0,,No Activity
+Finland,European Region of WHO,Northern Europe,2008,44,2008-10-27,2008-11-02,,2,0,,0,,0,0,0,0,0,0,0,,No Activity
+Finland,European Region of WHO,Northern Europe,2008,45,2008-11-03,2008-11-09,,7,0,,0,,0,0,0,0,0,0,0,,No Activity
+Finland,European Region of WHO,Northern Europe,2008,46,2008-11-10,2008-11-16,,2,0,,0,,0,0,0,0,0,0,0,,No Report
+Finland,European Region of WHO,Northern Europe,2008,47,2008-11-17,2008-11-23,,2,0,,0,,0,0,0,0,0,0,0,,No Activity
+Finland,European Region of WHO,Northern Europe,2008,48,2008-11-24,2008-11-30,,6,0,,0,,0,0,0,0,0,0,0,,No Activity
+Finland,European Region of WHO,Northern Europe,2008,49,2008-12-01,2008-12-07,,12,0,,2,,0,2,0,0,0,0,2,,Sporadic
+Finland,European Region of WHO,Northern Europe,2008,50,2008-12-08,2008-12-14,,31,0,,2,,2,4,0,0,0,0,4,,Sporadic
+Finland,European Region of WHO,Northern Europe,2008,51,2008-12-15,2008-12-21,,31,0,,12,,2,14,0,0,0,0,14,,Local Outbreak
+Finland,European Region of WHO,Northern Europe,2008,52,2008-12-22,2008-12-28,,9,,,1,,0,1,,,1,1,2,,Local Outbreak
+Finland,European Region of WHO,Northern Europe,2009,1,2008-12-29,2009-01-04,,25,0,,3,,5,8,0,0,0,0,8,,Regional Outbreak
+Finland,European Region of WHO,Northern Europe,2009,2,2009-01-05,2009-01-11,,22,0,,13,,1,14,0,0,0,0,14,,Regional Outbreak
+Finland,European Region of WHO,Northern Europe,2009,3,2009-01-12,2009-01-18,,78,1,,41,,12,54,0,0,0,0,54,,Widespread Outbreak
+Finland,European Region of WHO,Northern Europe,2009,4,2009-01-19,2009-01-25,,46,0,,20,,11,31,0,1,0,1,32,,Widespread Outbreak
+Finland,European Region of WHO,Northern Europe,2009,5,2009-01-26,2009-02-01,,48,,,19,,4,23,,2,2,4,27,,Widespread Outbreak
+Finland,European Region of WHO,Northern Europe,2009,6,2009-02-02,2009-02-08,,61,0,,18,,7,25,,6,,6,31,,Widespread Outbreak
+Finland,European Region of WHO,Northern Europe,2009,7,2009-02-09,2009-02-15,,38,0,,10,,0,10,0,0,0,0,10,,Widespread Outbreak
+Finland,European Region of WHO,Northern Europe,2009,8,2009-02-16,2009-02-22,,42,0,,7,,7,14,,4,1,5,19,,Widespread Outbreak
+Finland,European Region of WHO,Northern Europe,2009,9,2009-02-23,2009-03-01,,43,1,,3,,1,5,0,5,0,5,10,,Regional Outbreak
+Finland,European Region of WHO,Northern Europe,2009,10,2009-03-02,2009-03-08,,41,0,,3,,3,6,,9,0,9,15,,Regional Outbreak
+Finland,European Region of WHO,Northern Europe,2009,11,2009-03-09,2009-03-15,,51,,,,,3,3,,9,5,14,17,,Regional Outbreak
+Finland,European Region of WHO,Northern Europe,2009,12,2009-03-16,2009-03-22,,34,0,,0,,2,2,0,0,10,10,12,,Local Outbreak
+Finland,European Region of WHO,Northern Europe,2009,13,2009-03-23,2009-03-29,,43,0,,0,,2,2,0,0,4,4,6,,Local Outbreak
+Finland,European Region of WHO,Northern Europe,2009,16,2009-04-13,2009-04-19,,6,0,0,0,,0,0,,,2,2,2,,Sporadic
+Finland,European Region of WHO,Northern Europe,2009,17,2009-04-20,2009-04-26,,17,0,0,0,,0,0,,,1,1,1,,Sporadic
+Finland,European Region of WHO,Northern Europe,2009,18,2009-04-27,2009-05-03,,13,0,0,0,,0,0,,,4,4,4,,Sporadic
+Finland,European Region of WHO,Northern Europe,2009,19,2009-05-04,2009-05-10,,14,0,0,0,,1,1,,,1,1,2,,Sporadic
+Finland,European Region of WHO,Northern Europe,2009,20,2009-05-11,2009-05-17,,12,0,0,0,,0,0,,,2,2,2,,No Activity
+Finland,European Region of WHO,Northern Europe,2009,21,2009-05-18,2009-05-24,,8,0,0,0,,0,0,,,0,0,0,,No Activity
+Finland,European Region of WHO,Northern Europe,2009,22,2009-05-25,2009-05-31,,3,0,0,0,,0,0,,,0,0,0,,No Activity
+Finland,European Region of WHO,Northern Europe,2009,23,2009-06-01,2009-06-07,,9,0,0,0,,3,3,,,0,0,3,,Sporadic
+Finland,European Region of WHO,Northern Europe,2009,24,2009-06-08,2009-06-14,,5,0,0,0,,0,0,,,0,0,0,,No Activity
+Finland,European Region of WHO,Northern Europe,2009,25,2009-06-15,2009-06-21,4,4,0,0,0,0,0,0,0,0,0,0,0,,No Activity
+Finland,European Region of WHO,Northern Europe,2009,26,2009-06-22,2009-06-28,7,7,0,0,0,0,0,0,0,0,0,0,0,,No Activity
+Finland,European Region of WHO,Northern Europe,2009,27,2009-06-29,2009-07-05,3,3,0,0,0,0,0,0,0,0,0,0,0,,No Activity
+Finland,European Region of WHO,Northern Europe,2009,28,2009-07-06,2009-07-12,11,11,0,0,0,0,0,0,0,0,0,0,0,,No Activity
+Finland,European Region of WHO,Northern Europe,2009,29,2009-07-13,2009-07-19,5,5,0,0,0,0,0,0,0,0,0,0,0,,Sporadic
+Finland,European Region of WHO,Northern Europe,2009,30,2009-07-20,2009-07-26,16,16,0,1,0,0,0,1,0,0,0,0,1,,Sporadic
+Finland,European Region of WHO,Northern Europe,2009,31,2009-07-27,2009-08-02,15,15,0,0,0,0,0,0,0,0,0,0,0,,Sporadic
+Finland,European Region of WHO,Northern Europe,2009,32,2009-08-03,2009-08-09,16,16,0,2,0,0,0,2,0,0,0,0,2,,Sporadic
+Finland,European Region of WHO,Northern Europe,2009,33,2009-08-10,2009-08-16,24,24,0,0,0,0,0,0,0,0,0,0,0,,Sporadic
+Finland,European Region of WHO,Northern Europe,2009,34,2009-08-17,2009-08-23,44,44,0,0,0,0,1,1,0,0,0,0,1,,Sporadic
+Finland,European Region of WHO,Northern Europe,2009,35,2009-08-24,2009-08-30,37,37,0,0,0,0,0,0,0,0,0,0,0,,Sporadic
+Finland,European Region of WHO,Northern Europe,2009,36,2009-08-31,2009-09-06,47,47,0,14,0,0,2,16,0,0,0,0,16,,Local Outbreak
+Finland,European Region of WHO,Northern Europe,2009,37,2009-09-07,2009-09-13,75,75,0,15,0,0,0,15,0,0,0,0,15,,Local Outbreak
+Finland,European Region of WHO,Northern Europe,2009,38,2009-09-14,2009-09-20,63,63,0,5,0,0,0,5,0,0,0,0,5,,Local Outbreak
+Finland,European Region of WHO,Northern Europe,2009,39,2009-09-21,2009-09-27,57,57,0,2,0,0,4,6,0,0,0,0,6,,Local Outbreak
+Finland,European Region of WHO,Northern Europe,2009,40,2009-09-28,2009-10-04,33,33,0,0,0,0,0,0,0,0,0,0,0,,Local Outbreak
+Finland,European Region of WHO,Northern Europe,2009,41,2009-10-05,2009-10-11,41,41,,4,,0,0,4,0,0,0,0,4,,Local Outbreak
+Finland,European Region of WHO,Northern Europe,2009,42,2009-10-12,2009-10-18,54,54,,34,,0,0,34,0,0,0,0,34,,Regional Outbreak
+Finland,European Region of WHO,Northern Europe,2009,43,2009-10-19,2009-10-25,55,55,,24,,0,3,27,0,0,0,0,27,,Regional Outbreak
+Finland,European Region of WHO,Northern Europe,2009,44,2009-10-26,2009-11-01,62,62,,37,,0,2,39,0,0,0,0,39,,Widespread Outbreak
+Finland,European Region of WHO,Northern Europe,2009,45,2009-11-02,2009-11-08,136,136,0,85,0,0,0,85,0,0,0,0,85,,Widespread Outbreak
+Finland,European Region of WHO,Northern Europe,2009,46,2009-11-09,2009-11-15,109,109,,74,,,2,76,,,0,0,76,,Widespread Outbreak
+Finland,European Region of WHO,Northern Europe,2009,47,2009-11-16,2009-11-22,53,53,0,37,0,0,0,37,0,0,0,0,37,,Widespread Outbreak
+Finland,European Region of WHO,Northern Europe,2009,48,2009-11-23,2009-11-29,32,32,0,10,0,0,0,10,0,0,0,0,10,,Widespread Outbreak
+Finland,European Region of WHO,Northern Europe,2009,49,2009-11-30,2009-12-06,30,30,0,5,0,0,0,5,0,0,0,0,5,,Regional Outbreak
+Finland,European Region of WHO,Northern Europe,2009,50,2009-12-07,2009-12-13,20,20,0,0,0,0,0,0,0,0,0,0,0,,Regional Outbreak
+Finland,European Region of WHO,Northern Europe,2009,51,2009-12-14,2009-12-20,17,17,0,2,0,0,1,3,0,0,0,0,3,,Regional Outbreak
+Finland,European Region of WHO,Northern Europe,2009,52,2009-12-21,2009-12-27,0,0,0,0,0,0,0,0,0,0,0,0,0,,Local Outbreak
+Finland,European Region of WHO,Northern Europe,2009,53,2009-12-28,2010-01-03,0,0,0,0,0,0,0,0,0,0,0,0,0,,Local Outbreak
+Finland,European Region of WHO,Northern Europe,2010,1,2010-01-04,2010-01-10,6,6,0,1,0,0,0,1,0,0,0,0,1,,Sporadic
+Finland,European Region of WHO,Northern Europe,2010,2,2010-01-11,2010-01-17,9,9,0,1,0,0,0,1,0,0,0,0,1,,Sporadic
+Finland,European Region of WHO,Northern Europe,2010,3,2010-01-18,2010-01-24,1,1,0,0,0,0,0,0,0,0,0,0,0,,Sporadic
+Finland,European Region of WHO,Northern Europe,2010,37,2010-09-13,2010-09-19,13,13,0,0,0,0,0,0,0,0,0,0,0,,No Activity
+Finland,European Region of WHO,Northern Europe,2010,38,2010-09-20,2010-09-26,10,10,0,0,0,0,0,0,0,0,0,0,0,,No Activity
+Finland,European Region of WHO,Northern Europe,2010,39,2010-09-27,2010-10-03,28,28,0,0,0,0,0,0,0,0,0,0,0,,No Activity
+Finland,European Region of WHO,Northern Europe,2010,40,2010-10-04,2010-10-10,35,35,0,0,0,0,0,0,0,0,0,0,0,,No Activity
+Finland,European Region of WHO,Northern Europe,2010,41,2010-10-11,2010-10-17,21,21,0,0,0,0,0,0,0,0,0,0,0,,No Activity
+Finland,European Region of WHO,Northern Europe,2010,42,2010-10-18,2010-10-24,19,19,0,0,0,0,0,0,0,0,0,0,0,,No Activity
+Finland,European Region of WHO,Northern Europe,2010,43,2010-10-25,2010-10-31,15,15,0,0,0,0,0,0,0,0,0,0,0,,No Activity
+Finland,European Region of WHO,Northern Europe,2010,44,2010-11-01,2010-11-07,8,8,0,0,0,0,0,0,0,0,0,0,0,,No Activity
+Finland,European Region of WHO,Northern Europe,2010,45,2010-11-08,2010-11-14,16,16,0,0,0,0,0,0,0,0,0,0,0,,No Activity
+Finland,European Region of WHO,Northern Europe,2010,46,2010-11-15,2010-11-21,24,24,0,0,0,0,0,0,0,0,0,0,0,,No Activity
+Finland,European Region of WHO,Northern Europe,2010,47,2010-11-22,2010-11-28,,12,0,1,0,,0,1,0,0,0,0,1,,Local Outbreak
+Finland,European Region of WHO,Northern Europe,2010,48,2010-11-29,2010-12-05,,31,0,6,0,,0,6,0,0,0,0,6,,Sporadic
+Finland,European Region of WHO,Northern Europe,2010,49,2010-12-06,2010-12-12,,34,0,13,0,,0,13,0,0,0,0,13,,Regional Outbreak
+Finland,European Region of WHO,Northern Europe,2010,50,2010-12-13,2010-12-19,,101,0,59,0,,0,59,0,0,2,2,61,,Regional Outbreak
+Finland,European Region of WHO,Northern Europe,2010,51,2010-12-20,2010-12-26,,46,0,24,0,,1,25,0,0,3,3,28,,Regional Outbreak
+Finland,European Region of WHO,Northern Europe,2010,52,2010-12-27,2011-01-02,,29,0,9,0,,0,9,0,0,2,2,11,,Regional Outbreak
+Finland,European Region of WHO,Northern Europe,2011,1,2011-01-03,2011-01-09,,25,0,8,0,,0,8,0,0,4,4,12,,Regional Outbreak
+Finland,European Region of WHO,Northern Europe,2011,2,2011-01-10,2011-01-16,,50,0,24,0,,0,24,0,0,3,3,27,,Regional Outbreak
+Finland,European Region of WHO,Northern Europe,2011,3,2011-01-17,2011-01-23,,81,0,43,0,,3,46,0,0,17,17,63,,Widespread Outbreak
+Finland,European Region of WHO,Northern Europe,2011,4,2011-01-24,2011-01-30,,68,0,29,0,,2,31,0,0,20,20,51,,Widespread Outbreak
+Finland,European Region of WHO,Northern Europe,2011,5,2011-01-31,2011-02-06,,55,0,9,0,,0,9,0,0,30,30,39,,Widespread Outbreak
+Finland,European Region of WHO,Northern Europe,2011,6,2011-02-07,2011-02-13,,62,0,17,0,,2,19,0,0,25,25,44,,Widespread Outbreak
+Finland,European Region of WHO,Northern Europe,2011,7,2011-02-14,2011-02-20,,48,0,10,0,,0,10,0,0,6,6,16,,Widespread Outbreak
+Finland,European Region of WHO,Northern Europe,2011,8,2011-02-21,2011-02-27,,59,0,6,0,,0,6,0,0,15,15,21,,Widespread Outbreak
+Finland,European Region of WHO,Northern Europe,2011,9,2011-02-28,2011-03-06,,54,0,4,0,,1,5,0,0,22,22,27,,Widespread Outbreak
+Finland,European Region of WHO,Northern Europe,2011,10,2011-03-07,2011-03-13,,41,0,1,0,,0,1,0,0,9,9,10,,Regional Outbreak
+Finland,European Region of WHO,Northern Europe,2011,11,2011-03-14,2011-03-20,,33,0,2,0,,1,3,0,0,2,2,5,,Regional Outbreak
+Finland,European Region of WHO,Northern Europe,2011,12,2011-03-21,2011-03-27,,23,0,0,0,,1,1,0,0,1,1,2,,Sporadic
+Finland,European Region of WHO,Northern Europe,2011,13,2011-03-28,2011-04-03,,28,0,0,0,,1,1,0,0,2,2,3,,Local Outbreak
+Finland,European Region of WHO,Northern Europe,2011,14,2011-04-04,2011-04-10,,22,0,0,0,,0,0,0,0,3,3,3,,Regional Outbreak
+Finland,European Region of WHO,Northern Europe,2011,15,2011-04-11,2011-04-17,,27,0,0,0,,0,0,0,0,3,3,3,,Sporadic
+Finland,European Region of WHO,Northern Europe,2011,17,2011-04-25,2011-05-01,,9,0,0,0,,0,0,0,0,0,0,0,,Sporadic
+Finland,European Region of WHO,Northern Europe,2011,18,2011-05-02,2011-05-08,,8,0,0,0,,0,0,0,0,0,0,0,,Sporadic
+Finland,European Region of WHO,Northern Europe,2011,19,2011-05-09,2011-05-15,,11,0,0,0,,0,0,0,0,0,0,0,,Sporadic
+Finland,European Region of WHO,Northern Europe,2011,20,2011-05-16,2011-05-22,,14,0,0,0,,0,0,0,0,0,0,0,,Sporadic
+Finland,European Region of WHO,Northern Europe,2011,21,2011-05-23,2011-05-29,,5,0,0,0,,0,0,0,0,0,0,0,,No Activity
+Finland,European Region of WHO,Northern Europe,2011,22,2011-05-30,2011-06-05,,14,0,0,0,,0,0,0,0,0,0,0,,No Activity
+Finland,European Region of WHO,Northern Europe,2011,23,2011-06-06,2011-06-12,,5,0,0,0,,0,0,0,0,0,0,0,,No Activity
+Finland,European Region of WHO,Northern Europe,2011,24,2011-06-13,2011-06-19,,4,0,0,0,,0,0,0,0,0,0,0,,No Activity
+Finland,European Region of WHO,Northern Europe,2011,29,2011-07-18,2011-07-24,,4,0,0,0,,0,0,0,0,0,0,0,,No Activity
+Finland,European Region of WHO,Northern Europe,2011,30,2011-07-25,2011-07-31,,4,0,0,0,,0,0,0,0,0,0,0,,No Activity
+Finland,European Region of WHO,Northern Europe,2011,31,2011-08-01,2011-08-07,,6,0,0,0,,0,0,0,0,0,0,0,,No Activity
+Finland,European Region of WHO,Northern Europe,2011,32,2011-08-08,2011-08-14,,9,0,0,0,,0,0,0,0,0,0,0,,No Activity
+Finland,European Region of WHO,Northern Europe,2011,33,2011-08-15,2011-08-21,,11,0,0,0,,0,0,0,0,0,0,0,,No Activity
+Finland,European Region of WHO,Northern Europe,2011,34,2011-08-22,2011-08-28,,10,0,0,0,,0,0,0,0,0,0,0,,No Activity
+Finland,European Region of WHO,Northern Europe,2011,36,2011-09-05,2011-09-11,,9,0,0,0,,0,0,0,0,0,0,0,,No Activity
+Finland,European Region of WHO,Northern Europe,2011,37,2011-09-12,2011-09-18,,22,0,0,0,,0,0,0,0,0,0,0,,No Activity
+Finland,European Region of WHO,Northern Europe,2011,38,2011-09-19,2011-09-25,,31,0,0,0,,0,0,0,0,0,0,0,,No Activity
+Finland,European Region of WHO,Northern Europe,2011,39,2011-09-26,2011-10-02,,34,0,0,0,,0,0,0,0,0,0,0,,No Activity
+Finland,European Region of WHO,Northern Europe,2011,41,2011-10-10,2011-10-16,,0,0,0,0,,0,0,0,0,0,0,0,,No Activity
+Finland,European Region of WHO,Northern Europe,2011,42,2011-10-17,2011-10-23,,27,0,0,0,,0,0,0,0,0,0,0,,No Activity
+Finland,European Region of WHO,Northern Europe,2011,43,2011-10-24,2011-10-30,,22,0,0,1,,0,1,0,0,0,0,1,,Sporadic
+Finland,European Region of WHO,Northern Europe,2011,44,2011-10-31,2011-11-06,,27,0,0,0,,0,0,0,0,0,0,0,,Sporadic
+Finland,European Region of WHO,Northern Europe,2011,45,2011-11-07,2011-11-13,,33,0,0,0,,0,0,0,0,0,0,0,,No Activity
+Finland,European Region of WHO,Northern Europe,2011,46,2011-11-14,2011-11-20,,26,0,0,0,,0,0,0,0,0,0,0,,No Activity
+Finland,European Region of WHO,Northern Europe,2011,47,2011-11-21,2011-11-27,,30,0,0,0,,0,0,0,0,0,0,0,,No Activity
+Finland,European Region of WHO,Northern Europe,2011,48,2011-11-28,2011-12-04,,21,0,0,0,,0,0,0,0,0,0,0,,No Activity
+Finland,European Region of WHO,Northern Europe,2011,49,2011-12-05,2011-12-11,,30,0,0,0,,0,0,0,0,0,0,0,,No Activity
+Finland,European Region of WHO,Northern Europe,2011,50,2011-12-12,2011-12-18,,23,0,0,0,,0,0,0,0,0,0,0,,No Activity
+Finland,European Region of WHO,Northern Europe,2011,51,2011-12-19,2011-12-25,,10,0,0,0,,0,0,0,0,0,0,0,,No Activity
+Finland,European Region of WHO,Northern Europe,2011,52,2011-12-26,2012-01-01,,23,0,0,0,,1,1,0,0,0,0,1,,No Activity
+Finland,European Region of WHO,Northern Europe,2012,1,2012-01-02,2012-01-08,,21,0,0,0,,0,0,0,0,0,0,0,,No Activity
+Finland,European Region of WHO,Northern Europe,2012,2,2012-01-09,2012-01-15,,33,0,0,0,,4,4,0,0,0,0,4,,Local Outbreak
+Finland,European Region of WHO,Northern Europe,2012,3,2012-01-16,2012-01-22,,44,0,0,17,,0,17,0,0,0,0,17,,Regional Outbreak
+Finland,European Region of WHO,Northern Europe,2012,4,2012-01-23,2012-01-29,,62,0,1,14,,0,15,0,0,0,0,15,,Regional Outbreak
+Finland,European Region of WHO,Northern Europe,2012,5,2012-01-30,2012-02-05,,83,0,5,26,,0,31,0,0,0,0,31,,Regional Outbreak
+Finland,European Region of WHO,Northern Europe,2012,6,2012-02-06,2012-02-12,,77,0,1,29,,0,30,0,0,0,0,30,,Regional Outbreak
+Finland,European Region of WHO,Northern Europe,2012,7,2012-02-13,2012-02-19,,91,0,0,47,,0,47,0,0,0,0,47,,Regional Outbreak
+Finland,European Region of WHO,Northern Europe,2012,8,2012-02-20,2012-02-26,,65,0,1,23,,0,24,0,0,0,0,24,,Widespread Outbreak
+Finland,European Region of WHO,Northern Europe,2012,9,2012-02-27,2012-03-04,,74,0,2,23,,1,26,0,0,0,0,26,,Widespread Outbreak
+Finland,European Region of WHO,Northern Europe,2012,10,2012-03-05,2012-03-11,,63,0,0,7,,1,8,0,0,5,5,13,,Regional Outbreak
+Finland,European Region of WHO,Northern Europe,2012,11,2012-03-12,2012-03-18,,67,0,0,3,,2,5,0,0,0,0,5,,Regional Outbreak
+Finland,European Region of WHO,Northern Europe,2012,12,2012-03-19,2012-03-25,,38,0,0,3,,1,4,0,0,0,0,4,,Local Outbreak
+Finland,European Region of WHO,Northern Europe,2012,13,2012-03-26,2012-04-01,,27,0,0,0,,1,1,0,0,1,1,2,,Local Outbreak
+Finland,European Region of WHO,Northern Europe,2012,14,2012-04-02,2012-04-08,,10,0,0,0,,0,0,0,0,2,2,2,,Local Outbreak
+Finland,European Region of WHO,Northern Europe,2012,15,2012-04-09,2012-04-15,,6,0,0,0,,0,0,0,0,1,1,1,,Sporadic
+Finland,European Region of WHO,Northern Europe,2012,16,2012-04-16,2012-04-22,,22,0,0,0,,0,0,0,0,1,1,1,,Sporadic
+Finland,European Region of WHO,Northern Europe,2012,17,2012-04-23,2012-04-29,,14,0,0,0,,0,0,0,0,6,6,6,,Sporadic
+Finland,European Region of WHO,Northern Europe,2012,18,2012-04-30,2012-05-06,,21,0,0,0,,0,0,0,0,1,1,1,,Sporadic
+Finland,European Region of WHO,Northern Europe,2012,19,2012-05-07,2012-05-13,,21,0,0,0,,0,0,0,0,1,1,1,,Sporadic
+Finland,European Region of WHO,Northern Europe,2012,20,2012-05-14,2012-05-20,,17,0,0,0,,0,0,0,0,1,1,1,,Sporadic
+Finland,European Region of WHO,Northern Europe,2012,21,2012-05-21,2012-05-27,,12,0,0,0,,0,0,0,0,0,0,0,,Sporadic
+Finland,European Region of WHO,Northern Europe,2012,22,2012-05-28,2012-06-03,,11,0,0,0,,0,0,0,0,0,0,0,,No Activity
+Finland,European Region of WHO,Northern Europe,2012,23,2012-06-04,2012-06-10,,13,0,0,0,,0,0,0,0,0,0,0,,No Activity
+Finland,European Region of WHO,Northern Europe,2012,24,2012-06-11,2012-06-17,,14,0,0,0,,0,0,0,0,0,0,0,,No Activity
+Finland,European Region of WHO,Northern Europe,2012,30,2012-07-23,2012-07-29,,8,0,0,0,,0,0,0,0,0,0,0,,No Activity
+Finland,European Region of WHO,Northern Europe,2012,31,2012-07-30,2012-08-05,,10,0,0,0,,0,0,0,0,0,0,0,,No Activity
+Finland,European Region of WHO,Northern Europe,2012,32,2012-08-06,2012-08-12,,5,0,0,0,,0,0,0,0,0,0,0,,No Activity
+Finland,European Region of WHO,Northern Europe,2012,33,2012-08-13,2012-08-19,,12,0,0,0,,0,0,0,0,0,0,0,,No Activity
+Finland,European Region of WHO,Northern Europe,2012,34,2012-08-20,2012-08-26,,18,0,0,0,,0,0,0,0,0,0,0,,No Activity
+Finland,European Region of WHO,Northern Europe,2012,35,2012-08-27,2012-09-02,,14,0,0,0,,0,0,0,0,0,0,0,,No Activity
+Finland,European Region of WHO,Northern Europe,2012,36,2012-09-03,2012-09-09,,19,0,0,0,,0,0,0,0,0,0,0,,No Activity
+Finland,European Region of WHO,Northern Europe,2012,37,2012-09-10,2012-09-16,,21,0,0,0,,0,0,0,0,0,0,0,,No Activity
+Finland,European Region of WHO,Northern Europe,2012,38,2012-09-17,2012-09-23,,14,0,0,0,,0,0,0,0,0,0,0,,No Activity
+Finland,European Region of WHO,Northern Europe,2012,39,2012-09-24,2012-09-30,,14,0,0,0,,0,0,0,0,0,0,0,,No Activity
+Finland,European Region of WHO,Northern Europe,2012,40,2012-10-01,2012-10-07,,23,0,0,0,,0,0,0,0,0,0,0,,No Activity
+Finland,European Region of WHO,Northern Europe,2012,41,2012-10-08,2012-10-14,,7,0,0,0,,0,0,0,0,0,0,0,,No Activity
+Finland,European Region of WHO,Northern Europe,2012,42,2012-10-15,2012-10-21,,17,0,0,0,,0,0,0,0,0,0,0,,No Activity
+Finland,European Region of WHO,Northern Europe,2012,43,2012-10-22,2012-10-28,,11,0,0,0,,0,0,0,0,0,0,0,,No Activity
+Finland,European Region of WHO,Northern Europe,2012,44,2012-10-29,2012-11-04,,9,0,0,0,,0,0,0,0,0,0,0,,No Activity
+Finland,European Region of WHO,Northern Europe,2012,45,2012-11-05,2012-11-11,,14,0,0,0,,0,0,0,1,0,1,1,,Sporadic
+Finland,European Region of WHO,Northern Europe,2012,46,2012-11-12,2012-11-18,,11,0,0,0,,0,0,0,1,0,1,1,,Sporadic
+Finland,European Region of WHO,Northern Europe,2012,47,2012-11-19,2012-11-25,,21,0,0,0,,0,0,0,1,0,1,1,,Sporadic
+Finland,European Region of WHO,Northern Europe,2012,48,2012-11-26,2012-12-02,,14,0,0,2,,0,2,0,0,0,0,2,,Sporadic
+Finland,European Region of WHO,Northern Europe,2012,49,2012-12-03,2012-12-09,,13,0,1,0,,0,1,0,0,0,0,1,,No Report
+Finland,European Region of WHO,Northern Europe,2012,50,2012-12-10,2012-12-16,,10,0,0,0,,0,0,0,0,0,0,0,,No Report
+Finland,European Region of WHO,Northern Europe,2012,51,2012-12-17,2012-12-23,,25,0,2,1,,0,3,0,0,0,0,3,,No Report
+Finland,European Region of WHO,Northern Europe,2012,52,2012-12-24,2012-12-30,,10,0,2,0,,0,2,0,0,0,0,2,,No Report
+Finland,European Region of WHO,Northern Europe,2013,1,2012-12-31,2013-01-06,,6,0,1,2,,0,3,0,0,0,0,3,,No Report
+Finland,European Region of WHO,Northern Europe,2013,2,2013-01-07,2013-01-13,,12,0,2,0,,0,2,1,0,0,1,3,,No Report
+Finland,European Region of WHO,Northern Europe,2013,3,2013-01-14,2013-01-20,,28,0,1,7,,0,8,1,2,5,8,16,,Widespread Outbreak
+Finland,European Region of WHO,Northern Europe,2013,4,2013-01-21,2013-01-27,,39,0,6,3,,0,9,0,0,8,8,17,,Widespread Outbreak
+Finland,European Region of WHO,Northern Europe,2013,5,2013-01-28,2013-02-03,,73,0,24,7,,0,31,0,0,8,8,39,,Widespread Outbreak
+Finland,European Region of WHO,Northern Europe,2013,6,2013-02-04,2013-02-10,,66,0,17,5,,0,22,0,0,3,3,25,,Widespread Outbreak
+Finland,European Region of WHO,Northern Europe,2013,7,2013-02-11,2013-02-17,,59,0,28,3,,0,31,0,0,2,2,33,,Widespread Outbreak
+Finland,European Region of WHO,Northern Europe,2013,8,2013-02-18,2013-02-24,,60,0,32,5,,0,37,0,0,3,3,40,,Widespread Outbreak
+Finland,European Region of WHO,Northern Europe,2013,9,2013-02-25,2013-03-03,,50,0,21,2,,0,23,0,0,0,0,23,,Widespread Outbreak
+Finland,European Region of WHO,Northern Europe,2013,10,2013-03-04,2013-03-10,,51,0,21,9,,0,30,0,0,0,0,30,,Widespread Outbreak
+Finland,European Region of WHO,Northern Europe,2013,11,2013-03-11,2013-03-17,,16,0,5,1,,0,6,0,0,0,0,6,,Widespread Outbreak
+Finland,European Region of WHO,Northern Europe,2013,12,2013-03-18,2013-03-24,,13,0,3,1,,0,4,0,0,1,1,5,,Widespread Outbreak
+Finland,European Region of WHO,Northern Europe,2013,13,2013-03-25,2013-03-31,,11,0,1,3,,0,4,0,0,1,1,5,,Widespread Outbreak
+Finland,European Region of WHO,Northern Europe,2013,14,2013-04-01,2013-04-07,,10,0,1,1,,0,2,0,0,0,0,2,,Regional Outbreak
+Finland,European Region of WHO,Northern Europe,2013,15,2013-04-08,2013-04-14,,12,0,0,1,,0,1,0,0,0,0,1,,Local Outbreak
+Finland,European Region of WHO,Northern Europe,2013,16,2013-04-15,2013-04-21,,10,0,0,0,,0,0,0,0,1,1,1,,Sporadic
+Finland,European Region of WHO,Northern Europe,2013,17,2013-04-22,2013-04-28,,1,0,0,0,,0,0,0,0,0,0,0,,Local Outbreak
+Finland,European Region of WHO,Northern Europe,2013,18,2013-04-29,2013-05-05,,9,0,1,0,,0,1,0,0,0,0,1,,No Activity
+Finland,European Region of WHO,Northern Europe,2013,19,2013-05-06,2013-05-12,,3,0,0,0,,0,0,0,0,0,0,0,,No Activity
+Finland,European Region of WHO,Northern Europe,2013,20,2013-05-13,2013-05-19,,3,0,0,0,,0,0,0,0,0,0,0,,No Activity
+Finland,European Region of WHO,Northern Europe,2013,21,2013-05-20,2013-05-26,,2,0,0,0,,0,0,0,0,0,0,0,,No Report
+Finland,European Region of WHO,Northern Europe,2013,22,2013-05-27,2013-06-02,,0,0,0,0,,0,0,0,0,0,0,0,,No Report
+Finland,European Region of WHO,Northern Europe,2013,23,2013-06-03,2013-06-09,,3,0,0,0,,0,0,0,0,0,0,0,,No Activity
+Finland,European Region of WHO,Northern Europe,2013,34,2013-08-19,2013-08-25,,1,0,0,0,,0,0,0,0,0,0,0,,No Report
+Finland,European Region of WHO,Northern Europe,2013,36,2013-09-02,2013-09-08,,9,0,0,0,,0,0,0,0,0,0,0,,No Report
+Finland,European Region of WHO,Northern Europe,2013,37,2013-09-09,2013-09-15,,2,0,0,0,,0,0,0,0,0,0,0,,No Activity
+Finland,European Region of WHO,Northern Europe,2013,38,2013-09-16,2013-09-22,,14,0,0,0,,0,0,0,0,0,0,0,,Local Outbreak
+Finland,European Region of WHO,Northern Europe,2013,39,2013-09-23,2013-09-29,,10,0,0,0,,0,0,0,0,0,0,0,,No Activity
+Finland,European Region of WHO,Northern Europe,2013,40,2013-09-30,2013-10-06,,7,0,0,0,,0,0,0,0,0,0,0,,No Activity
+Finland,European Region of WHO,Northern Europe,2013,41,2013-10-07,2013-10-13,,5,0,1,0,,0,1,0,0,0,0,1,,Local Outbreak
+Finland,European Region of WHO,Northern Europe,2013,42,2013-10-14,2013-10-20,,13,0,1,0,,0,1,0,0,0,0,1,,No Activity
+Finland,European Region of WHO,Northern Europe,2013,43,2013-10-21,2013-10-27,,13,0,0,0,,0,0,0,0,0,0,0,,No Activity
+Finland,European Region of WHO,Northern Europe,2013,44,2013-10-28,2013-11-03,,8,0,0,0,,0,0,0,0,0,0,0,,No Activity
+Finland,European Region of WHO,Northern Europe,2013,45,2013-11-04,2013-11-10,,9,0,0,0,,0,0,0,0,0,0,0,,No Activity
+Finland,European Region of WHO,Northern Europe,2013,46,2013-11-11,2013-11-17,,12,0,0,0,,0,0,0,0,0,0,0,,No Activity
+Finland,European Region of WHO,Northern Europe,2013,47,2013-11-18,2013-11-24,,8,0,0,0,,0,0,0,0,0,0,0,,No Activity
+Finland,European Region of WHO,Northern Europe,2013,48,2013-11-25,2013-12-01,,12,0,3,1,,0,4,0,0,0,0,4,,No Activity
+Finland,European Region of WHO,Northern Europe,2013,49,2013-12-02,2013-12-08,,9,0,0,0,,0,0,0,0,0,0,0,,No Activity
+Finland,European Region of WHO,Northern Europe,2013,50,2013-12-09,2013-12-15,,13,0,3,2,,0,5,0,0,0,0,5,,Sporadic
+Finland,European Region of WHO,Northern Europe,2013,51,2013-12-16,2013-12-22,,10,0,0,1,,0,1,0,0,0,0,1,,Sporadic
+Finland,European Region of WHO,Northern Europe,2014,1,2013-12-30,2014-01-05,,6,0,0,1,,0,1,0,0,0,0,1,,No Report
+Finland,European Region of WHO,Northern Europe,2014,2,2014-01-06,2014-01-12,,6,0,1,0,,0,1,0,0,0,0,1,,Sporadic
+Finland,European Region of WHO,Northern Europe,2014,3,2014-01-13,2014-01-19,,12,0,3,1,,0,4,0,0,0,0,4,,Sporadic
+Finland,European Region of WHO,Northern Europe,2014,4,2014-01-20,2014-01-26,,26,0,5,0,,0,5,2,0,0,2,7,,Sporadic
+Finland,European Region of WHO,Northern Europe,2014,5,2014-01-27,2014-02-02,,39,0,8,1,,0,9,1,0,0,1,10,,Widespread Outbreak
+Finland,European Region of WHO,Northern Europe,2014,6,2014-02-03,2014-02-09,,35,0,10,5,,0,15,1,0,0,1,16,,Widespread Outbreak
+Finland,European Region of WHO,Northern Europe,2014,7,2014-02-10,2014-02-16,,42,0,11,5,,0,16,1,0,0,1,17,,Widespread Outbreak
+Finland,European Region of WHO,Northern Europe,2014,8,2014-02-17,2014-02-23,,44,0,8,4,,0,12,0,0,0,0,12,,Widespread Outbreak
+Finland,European Region of WHO,Northern Europe,2014,9,2014-02-24,2014-03-02,,44,0,9,1,,0,10,0,0,0,0,10,,Widespread Outbreak
+Finland,European Region of WHO,Northern Europe,2014,10,2014-03-03,2014-03-09,,27,0,2,2,,0,4,0,0,0,0,4,,Regional Outbreak
+Finland,European Region of WHO,Northern Europe,2014,11,2014-03-10,2014-03-16,,23,0,1,1,,0,2,0,0,0,0,2,,Regional Outbreak
+Finland,European Region of WHO,Northern Europe,2014,12,2014-03-17,2014-03-23,,26,0,2,0,,0,2,0,0,0,0,2,,Local Outbreak
+Finland,European Region of WHO,Northern Europe,2014,13,2014-03-24,2014-03-30,,19,0,0,1,,0,1,0,0,0,0,1,,Sporadic
+Finland,European Region of WHO,Northern Europe,2014,14,2014-03-31,2014-04-06,,15,0,1,1,,0,2,0,0,0,0,2,,No Report
+Finland,European Region of WHO,Northern Europe,2014,15,2014-04-07,2014-04-13,,18,0,0,0,,0,0,0,0,0,0,0,,Sporadic
+Finland,European Region of WHO,Northern Europe,2014,16,2014-04-14,2014-04-20,,18,0,1,0,,0,1,0,0,0,0,1,,Local Outbreak
+Finland,European Region of WHO,Northern Europe,2014,17,2014-04-21,2014-04-27,,12,0,2,1,,0,3,0,0,0,0,3,,Local Outbreak
+Finland,European Region of WHO,Northern Europe,2014,18,2014-04-28,2014-05-04,,11,0,2,4,,0,6,1,0,0,1,7,,No Report
+Finland,European Region of WHO,Northern Europe,2014,19,2014-05-05,2014-05-11,,8,0,0,4,,0,4,0,0,0,0,4,,Local Outbreak
+Finland,European Region of WHO,Northern Europe,2014,20,2014-05-12,2014-05-18,,2,0,0,0,,0,0,0,0,0,0,0,,No Activity
+Finland,European Region of WHO,Northern Europe,2014,21,2014-05-19,2014-05-25,,5,0,0,0,,0,0,0,0,0,0,0,,No Report
+Finland,European Region of WHO,Northern Europe,2014,22,2014-05-26,2014-06-01,,0,0,0,0,,0,0,0,0,0,0,0,,No Report
+Finland,European Region of WHO,Northern Europe,2014,24,2014-06-09,2014-06-15,,2,0,0,0,,0,0,0,0,0,0,0,,No Report
+Finland,European Region of WHO,Northern Europe,2014,32,2014-08-04,2014-08-10,,4,0,0,0,,0,0,0,0,0,0,0,,No Report
+Finland,European Region of WHO,Northern Europe,2014,33,2014-08-11,2014-08-17,,4,0,0,0,,0,0,0,0,0,0,0,,No Report
+Finland,European Region of WHO,Northern Europe,2014,34,2014-08-18,2014-08-24,,2,0,0,0,,0,0,0,0,0,0,0,,No Report
+Finland,European Region of WHO,Northern Europe,2014,35,2014-08-25,2014-08-31,,3,0,0,0,,0,0,0,0,0,0,0,,No Report
+Finland,European Region of WHO,Northern Europe,2014,36,2014-09-01,2014-09-07,,3,0,0,0,,0,0,0,0,0,0,0,,No Report
+Finland,European Region of WHO,Northern Europe,2014,37,2014-09-08,2014-09-14,,4,0,0,0,,0,0,0,0,0,0,0,,No Report
+Finland,European Region of WHO,Northern Europe,2014,38,2014-09-15,2014-09-21,,3,0,0,0,,0,0,0,0,0,0,0,,No Report
+Finland,European Region of WHO,Northern Europe,2014,39,2014-09-22,2014-09-28,,17,0,0,0,,0,0,0,0,0,0,0,,No Report
+Finland,European Region of WHO,Northern Europe,2014,40,2014-09-29,2014-10-05,,8,0,0,0,,0,0,0,0,0,0,0,,No Report
+Finland,European Region of WHO,Northern Europe,2014,41,2014-10-06,2014-10-12,,4,0,0,1,,0,1,0,0,0,0,1,,No Report
+Finland,European Region of WHO,Northern Europe,2014,42,2014-10-13,2014-10-19,,10,0,0,0,,0,0,0,0,0,0,0,,No Report
+Finland,European Region of WHO,Northern Europe,2014,43,2014-10-20,2014-10-26,,13,0,0,1,,0,1,0,0,0,0,1,,No Report
+Finland,European Region of WHO,Northern Europe,2014,44,2014-10-27,2014-11-02,,8,0,0,0,,0,0,0,0,0,0,0,,No Report
+Finland,European Region of WHO,Northern Europe,2014,45,2014-11-03,2014-11-09,,10,0,0,0,,0,0,0,0,0,0,0,,No Report
+Finland,European Region of WHO,Northern Europe,2014,46,2014-11-10,2014-11-16,,3,0,0,0,,0,0,0,0,0,0,0,,No Report
+Finland,European Region of WHO,Northern Europe,2014,47,2014-11-17,2014-11-23,,6,0,0,2,,0,2,0,0,0,0,2,,No Report
+Finland,European Region of WHO,Northern Europe,2014,48,2014-11-24,2014-11-30,,11,0,0,4,,0,4,0,0,0,0,4,,No Report
+Finland,European Region of WHO,Northern Europe,2014,49,2014-12-01,2014-12-07,,6,0,2,1,,0,3,0,0,0,0,3,,No Report
+Finland,European Region of WHO,Northern Europe,2014,50,2014-12-08,2014-12-14,,13,0,0,0,,0,0,1,0,0,1,1,,No Report
+Finland,European Region of WHO,Northern Europe,2014,51,2014-12-15,2014-12-21,,16,0,0,4,,0,4,1,0,0,1,5,,No Report
+Finland,European Region of WHO,Northern Europe,2014,52,2014-12-22,2014-12-28,,3,0,0,1,,0,1,0,0,0,0,1,,No Report
+Finland,European Region of WHO,Northern Europe,2015,1,2014-12-29,2015-01-04,,9,0,0,5,,0,5,0,0,0,0,5,,No Report
+Finland,European Region of WHO,Northern Europe,2015,2,2015-01-05,2015-01-11,,17,0,0,4,,0,4,2,0,0,2,6,,No Report
+Finland,European Region of WHO,Northern Europe,2015,3,2015-01-12,2015-01-18,,31,0,1,7,,0,8,3,0,0,3,11,,No Report
+Finland,European Region of WHO,Northern Europe,2015,4,2015-01-19,2015-01-25,,26,0,0,9,,0,9,3,0,0,3,12,,No Report
+Finland,European Region of WHO,Northern Europe,2015,5,2015-01-26,2015-02-01,,24,0,1,10,,0,11,1,0,0,1,12,,No Report
+Finland,European Region of WHO,Northern Europe,2015,6,2015-02-02,2015-02-08,,29,0,0,14,,0,14,0,0,0,0,14,,No Report
+Finland,European Region of WHO,Northern Europe,2015,7,2015-02-09,2015-02-15,,29,0,0,5,,0,5,2,0,0,2,7,,No Report
+Finland,European Region of WHO,Northern Europe,2015,8,2015-02-16,2015-02-22,,33,0,1,6,,0,7,1,0,0,1,8,,No Report
+Finland,European Region of WHO,Northern Europe,2015,9,2015-02-23,2015-03-01,,28,0,0,9,,0,9,4,0,0,4,13,,No Report
+Finland,European Region of WHO,Northern Europe,2015,10,2015-03-02,2015-03-08,,31,0,0,10,,0,10,6,0,0,6,16,,No Report
+Finland,European Region of WHO,Northern Europe,2015,11,2015-03-09,2015-03-15,,19,0,0,5,,0,5,1,0,0,1,6,,No Report
+Finland,European Region of WHO,Northern Europe,2015,12,2015-03-16,2015-03-22,,18,0,0,1,,0,1,1,0,0,1,2,,No Report
+Finland,European Region of WHO,Northern Europe,2015,13,2015-03-23,2015-03-29,,17,0,0,4,,0,4,1,0,0,1,5,,No Report
+Finland,European Region of WHO,Northern Europe,2015,14,2015-03-30,2015-04-05,,15,0,0,0,,0,0,4,2,0,6,6,,No Report
+Finland,European Region of WHO,Northern Europe,2015,15,2015-04-06,2015-04-12,,8,0,0,0,,0,0,2,1,0,3,3,,No Report
+Finland,European Region of WHO,Northern Europe,2015,16,2015-04-13,2015-04-19,,5,0,0,1,,0,1,0,0,0,0,1,,No Report
+Finland,European Region of WHO,Northern Europe,2015,17,2015-04-20,2015-04-26,,12,0,0,0,,0,0,3,1,0,4,4,,No Report
+Finland,European Region of WHO,Northern Europe,2015,18,2015-04-27,2015-05-03,,5,0,0,1,,0,1,0,0,0,0,1,,No Report
+Finland,European Region of WHO,Northern Europe,2015,19,2015-05-04,2015-05-10,,6,0,0,0,,0,0,0,0,0,0,0,,No Report
+Finland,European Region of WHO,Northern Europe,2015,20,2015-05-11,2015-05-17,,5,0,0,0,,0,0,0,0,0,0,0,,No Report
+Finland,European Region of WHO,Northern Europe,2015,21,2015-05-18,2015-05-24,,1,0,0,0,,0,0,0,0,0,0,0,,No Report
+Finland,European Region of WHO,Northern Europe,2015,22,2015-05-25,2015-05-31,,4,0,0,0,,0,0,0,0,0,0,0,,No Report
+Finland,European Region of WHO,Northern Europe,2015,23,2015-06-01,2015-06-07,,5,0,0,0,,0,0,0,0,0,0,0,,No Report
+Finland,European Region of WHO,Northern Europe,2015,24,2015-06-08,2015-06-14,,4,0,0,0,,0,0,0,0,0,0,0,,No Report
+Finland,European Region of WHO,Northern Europe,2015,25,2015-06-15,2015-06-21,,0,0,0,0,,0,0,0,0,0,0,0,,No Report
+Finland,European Region of WHO,Northern Europe,2015,26,2015-06-22,2015-06-28,,1,0,0,0,,0,0,0,0,0,0,0,,No Report
+Finland,European Region of WHO,Northern Europe,2015,27,2015-06-29,2015-07-05,,0,0,0,0,,0,0,0,0,0,0,0,,No Report
+Finland,European Region of WHO,Northern Europe,2015,28,2015-07-06,2015-07-12,,0,0,0,0,,0,0,0,0,0,0,0,,No Report
+Finland,European Region of WHO,Northern Europe,2015,29,2015-07-13,2015-07-19,,0,0,0,0,,0,0,0,0,0,0,0,,No Report
+Finland,European Region of WHO,Northern Europe,2015,30,2015-07-20,2015-07-26,,2,0,0,0,,0,0,0,0,0,0,0,,No Report
+Finland,European Region of WHO,Northern Europe,2015,31,2015-07-27,2015-08-02,,0,0,0,0,,0,0,0,0,0,0,0,,No Report
+Finland,European Region of WHO,Northern Europe,2015,32,2015-08-03,2015-08-09,,0,0,0,0,,0,0,0,0,0,0,0,,No Report
+Finland,European Region of WHO,Northern Europe,2015,33,2015-08-10,2015-08-16,,6,0,0,0,,0,0,0,0,0,0,0,,No Report
+Finland,European Region of WHO,Northern Europe,2015,34,2015-08-17,2015-08-23,,6,0,0,0,,0,0,0,0,0,0,0,,No Report
+Finland,European Region of WHO,Northern Europe,2015,35,2015-08-24,2015-08-30,,3,0,0,0,,0,0,0,0,0,0,0,,No Report
+Finland,European Region of WHO,Northern Europe,2015,36,2015-08-31,2015-09-06,,2,0,0,0,,0,0,0,0,0,0,0,,No Report
+Finland,European Region of WHO,Northern Europe,2015,37,2015-09-07,2015-09-13,,7,0,0,0,,0,0,0,0,0,0,0,,No Report
+Finland,European Region of WHO,Northern Europe,2015,38,2015-09-14,2015-09-20,,4,0,0,0,,0,0,0,0,0,0,0,,No Report
+Finland,European Region of WHO,Northern Europe,2015,39,2015-09-21,2015-09-27,,9,0,0,0,,0,0,0,0,0,0,0,,No Report
+Finland,European Region of WHO,Northern Europe,2015,40,2015-09-28,2015-10-04,,6,0,0,0,,0,0,0,0,0,0,0,,No Report
+Finland,European Region of WHO,Northern Europe,2015,41,2015-10-05,2015-10-11,,6,0,0,0,,0,0,0,0,0,0,0,,No Report
+Finland,European Region of WHO,Northern Europe,2015,42,2015-10-12,2015-10-18,,7,0,0,0,,0,0,0,0,0,0,0,,No Report
+Finland,European Region of WHO,Northern Europe,2015,43,2015-10-19,2015-10-25,,5,0,0,0,,0,0,0,0,0,0,0,,No Report
+Finland,European Region of WHO,Northern Europe,2015,44,2015-10-26,2015-11-01,,11,0,0,0,,0,0,0,0,0,0,0,,No Report
+Finland,European Region of WHO,Northern Europe,2015,45,2015-11-02,2015-11-08,,9,0,0,0,,0,0,0,0,0,0,0,,No Report
+Finland,European Region of WHO,Northern Europe,2015,46,2015-11-09,2015-11-15,,6,0,0,0,,0,0,0,0,0,0,0,,No Report
+Finland,European Region of WHO,Northern Europe,2015,47,2015-11-16,2015-11-22,,23,0,3,0,,0,3,0,0,0,0,3,,No Report
+Finland,European Region of WHO,Northern Europe,2015,48,2015-11-23,2015-11-29,,10,0,2,0,,0,2,0,0,0,0,2,,No Report
+Finland,European Region of WHO,Northern Europe,2015,49,2015-11-30,2015-12-06,,14,0,6,5,,0,11,0,0,0,0,11,,No Report
+Finland,European Region of WHO,Northern Europe,2015,50,2015-12-07,2015-12-13,,12,0,3,0,,0,3,0,0,0,0,3,,No Report
+Finland,European Region of WHO,Northern Europe,2015,51,2015-12-14,2015-12-20,,17,0,9,1,,0,10,0,0,0,0,10,,No Report
+Finland,European Region of WHO,Northern Europe,2015,52,2015-12-21,2015-12-27,,9,0,3,0,,0,3,0,0,0,0,3,,No Report
+Finland,European Region of WHO,Northern Europe,2015,53,2015-12-28,2016-01-03,,12,0,4,0,,0,4,0,0,0,0,4,,No Report
+Finland,European Region of WHO,Northern Europe,2016,1,2016-01-04,2016-01-10,,16,0,10,1,,0,11,0,0,0,0,11,,No Report
+Finland,European Region of WHO,Northern Europe,2016,2,2016-01-11,2016-01-17,,23,0,12,1,,0,13,0,1,0,1,14,,No Report
+Finland,European Region of WHO,Northern Europe,2016,3,2016-01-18,2016-01-24,,43,0,28,1,,0,29,0,0,0,0,29,,No Report
+Finland,European Region of WHO,Northern Europe,2016,4,2016-01-25,2016-01-31,,49,0,18,1,,0,19,0,3,0,3,22,,No Report
+Finland,European Region of WHO,Northern Europe,2016,5,2016-02-01,2016-02-07,,32,0,11,0,,0,11,0,0,0,0,11,,No Report
+Finland,European Region of WHO,Northern Europe,2016,6,2016-02-08,2016-02-14,,36,0,11,4,,0,15,0,2,0,2,17,,No Report
+Finland,European Region of WHO,Northern Europe,2016,7,2016-02-15,2016-02-21,,31,0,9,2,,0,11,0,3,0,3,14,,No Report
+Finland,European Region of WHO,Northern Europe,2016,8,2016-02-22,2016-02-28,,13,0,6,0,,0,6,0,0,0,0,6,,No Report
+Finland,European Region of WHO,Northern Europe,2016,9,2016-02-29,2016-03-06,,12,0,2,0,,0,2,0,1,0,1,3,,No Report
+Finland,European Region of WHO,Northern Europe,2016,10,2016-03-07,2016-03-13,,12,0,1,0,,0,1,0,5,0,5,6,,No Report
+Finland,European Region of WHO,Northern Europe,2016,11,2016-03-14,2016-03-20,,9,0,0,0,,0,0,0,0,0,0,0,,No Report
+Finland,European Region of WHO,Northern Europe,2016,12,2016-03-21,2016-03-27,,6,0,1,0,,0,1,0,2,0,2,3,,No Report
+Finland,European Region of WHO,Northern Europe,2016,13,2016-03-28,2016-04-03,,5,0,1,0,,0,1,0,0,0,0,1,,No Report
+Finland,European Region of WHO,Northern Europe,2016,14,2016-04-04,2016-04-10,,9,0,0,0,,0,0,0,2,0,2,2,,No Report
+Finland,European Region of WHO,Northern Europe,2016,15,2016-04-11,2016-04-17,,4,0,0,0,,0,0,0,2,0,2,2,,No Report
+Finland,European Region of WHO,Northern Europe,2016,16,2016-04-18,2016-04-24,,0,0,0,0,,0,0,0,0,0,0,0,,No Report
+Finland,European Region of WHO,Northern Europe,2016,17,2016-04-25,2016-05-01,,6,0,0,0,,0,0,0,3,0,3,3,,No Report
+Finland,European Region of WHO,Northern Europe,2016,18,2016-05-02,2016-05-08,,0,0,0,0,,0,0,0,0,0,0,0,,No Report
+Finland,European Region of WHO,Northern Europe,2016,19,2016-05-09,2016-05-15,,2,0,0,0,,0,0,0,0,0,0,0,,No Report
+Finland,European Region of WHO,Northern Europe,2016,20,2016-05-16,2016-05-22,,4,0,0,0,,0,0,0,0,0,0,0,,No Report
+Finland,European Region of WHO,Northern Europe,2016,21,2016-05-23,2016-05-29,,0,0,0,0,,0,0,0,0,0,0,0,,No Report
+Finland,European Region of WHO,Northern Europe,2016,22,2016-05-30,2016-06-05,,0,0,0,0,,0,0,0,0,0,0,0,,No Report
+Finland,European Region of WHO,Northern Europe,2016,23,2016-06-06,2016-06-12,,0,0,0,0,,0,0,0,0,0,0,0,,No Report
+Finland,European Region of WHO,Northern Europe,2016,24,2016-06-13,2016-06-19,,1,0,0,0,,0,0,0,0,0,0,0,,No Report
+Finland,European Region of WHO,Northern Europe,2016,25,2016-06-20,2016-06-26,,0,0,0,0,,0,0,0,0,0,0,0,,No Report
+Finland,European Region of WHO,Northern Europe,2016,26,2016-06-27,2016-07-03,,0,0,0,0,,0,0,0,0,0,0,0,,No Report
+Finland,European Region of WHO,Northern Europe,2016,27,2016-07-04,2016-07-10,,0,0,0,0,,0,0,0,0,0,0,0,,No Report
+Finland,European Region of WHO,Northern Europe,2016,28,2016-07-11,2016-07-17,,1,0,0,0,,0,0,0,0,0,0,0,,No Report
+Finland,European Region of WHO,Northern Europe,2016,29,2016-07-18,2016-07-24,,1,0,0,0,,0,0,0,0,0,0,0,,No Report
+Finland,European Region of WHO,Northern Europe,2016,30,2016-07-25,2016-07-31,,1,0,0,0,,0,0,0,0,0,0,0,,No Report
+Finland,European Region of WHO,Northern Europe,2016,31,2016-08-01,2016-08-07,,0,0,0,0,,0,0,0,0,0,0,0,,No Report
+Finland,European Region of WHO,Northern Europe,2016,32,2016-08-08,2016-08-14,,1,0,0,0,,0,0,0,0,0,0,0,,No Report
+Finland,European Region of WHO,Northern Europe,2016,33,2016-08-15,2016-08-21,,0,0,0,0,,0,0,0,0,0,0,0,,No Report
+Finland,European Region of WHO,Northern Europe,2016,34,2016-08-22,2016-08-28,,2,0,0,0,,0,0,0,0,0,0,0,,No Report
+Finland,European Region of WHO,Northern Europe,2016,35,2016-08-29,2016-09-04,,1,0,0,0,,0,0,0,0,0,0,0,,No Report
+Finland,European Region of WHO,Northern Europe,2016,36,2016-09-05,2016-09-11,,5,0,0,0,,0,0,0,0,0,0,0,,No Report
+Finland,European Region of WHO,Northern Europe,2016,37,2016-09-12,2016-09-18,,2,0,0,0,,0,0,0,0,0,0,0,,No Report
+Finland,European Region of WHO,Northern Europe,2016,38,2016-09-19,2016-09-25,,3,0,0,0,,0,0,0,0,0,0,0,,No Report
+Finland,European Region of WHO,Northern Europe,2016,39,2016-09-26,2016-10-02,,2,0,0,0,,0,0,0,0,0,0,0,,No Report
+Finland,European Region of WHO,Northern Europe,2016,40,2016-10-03,2016-10-09,,4,0,0,0,,0,0,0,0,0,0,0,,No Report
+Finland,European Region of WHO,Northern Europe,2016,41,2016-10-10,2016-10-16,,2,0,0,0,,0,0,0,0,0,0,0,,No Report
+Finland,European Region of WHO,Northern Europe,2016,42,2016-10-17,2016-10-23,,11,0,0,5,,0,5,0,0,0,0,5,,No Report
+Finland,European Region of WHO,Northern Europe,2016,43,2016-10-24,2016-10-30,,8,0,0,5,,0,5,0,0,0,0,5,,No Report
+Finland,European Region of WHO,Northern Europe,2016,44,2016-10-31,2016-11-06,,11,0,0,0,,0,0,0,0,0,0,0,,No Report
+Finland,European Region of WHO,Northern Europe,2016,45,2016-11-07,2016-11-13,,5,0,0,0,,0,0,0,0,0,0,0,,No Report
+Finland,European Region of WHO,Northern Europe,2016,46,2016-11-14,2016-11-20,,12,0,0,3,,0,3,1,0,0,1,4,,No Report
+Finland,European Region of WHO,Northern Europe,2016,47,2016-11-21,2016-11-27,,11,0,0,6,,0,6,0,0,0,0,6,,No Report
+Finland,European Region of WHO,Northern Europe,2016,48,2016-11-28,2016-12-04,,11,0,0,5,,0,5,0,0,0,0,5,,No Report
+Finland,European Region of WHO,Northern Europe,2016,49,2016-12-05,2016-12-11,,17,0,0,4,,0,4,1,0,0,1,5,,No Report
+Finland,European Region of WHO,Northern Europe,2016,50,2016-12-12,2016-12-18,,28,0,0,20,,0,20,0,0,0,0,20,,No Report
+Finland,European Region of WHO,Northern Europe,2016,51,2016-12-19,2016-12-25,,28,0,0,21,,0,21,0,0,0,0,21,,No Report
+Finland,European Region of WHO,Northern Europe,2016,52,2016-12-26,2017-01-01,,28,0,0,20,,0,20,0,0,0,0,20,,No Report
+Finland,European Region of WHO,Northern Europe,2017,1,2017-01-02,2017-01-08,,19,0,0,8,,0,8,0,0,0,0,8,,No Report
+Finland,European Region of WHO,Northern Europe,2017,2,2017-01-09,2017-01-15,,23,0,0,16,,0,16,0,0,0,0,16,,No Report
+Finland,European Region of WHO,Northern Europe,2017,3,2017-01-16,2017-01-22,,15,0,0,5,,0,5,0,0,0,0,5,,No Report
+Finland,European Region of WHO,Northern Europe,2017,4,2017-01-23,2017-01-29,,23,0,0,6,,0,6,1,0,0,1,7,,No Report
+Finland,European Region of WHO,Northern Europe,2017,5,2017-01-30,2017-02-05,,8,0,0,3,,0,3,0,0,0,0,3,,No Report
+Finland,European Region of WHO,Northern Europe,2017,6,2017-02-06,2017-02-12,,10,0,0,4,,0,4,0,0,0,0,4,,No Report
+Finland,European Region of WHO,Northern Europe,2017,7,2017-02-13,2017-02-19,,10,0,0,4,,0,4,0,0,0,0,4,,No Report
+Finland,European Region of WHO,Northern Europe,2017,8,2017-02-20,2017-02-26,,6,0,0,3,,0,3,1,1,0,2,5,,No Report
+Finland,European Region of WHO,Northern Europe,2017,9,2017-02-27,2017-03-05,,9,0,0,3,,0,3,1,0,0,1,4,,No Report
+Finland,European Region of WHO,Northern Europe,2017,10,2017-03-06,2017-03-12,,3,0,0,1,,0,1,0,0,0,0,1,,No Report
+Finland,European Region of WHO,Northern Europe,2017,11,2017-03-13,2017-03-19,,9,0,0,4,,0,4,0,1,0,1,5,,No Report
+Finland,European Region of WHO,Northern Europe,2017,12,2017-03-20,2017-03-26,,5,0,0,0,,0,0,0,1,0,1,1,,No Report
+Finland,European Region of WHO,Northern Europe,2017,13,2017-03-27,2017-04-02,,3,0,0,0,,0,0,0,0,0,0,0,,No Report
+Finland,European Region of WHO,Northern Europe,2017,14,2017-04-03,2017-04-09,,1,0,0,0,,0,0,0,0,0,0,0,,No Report
+Finland,European Region of WHO,Northern Europe,2017,15,2017-04-10,2017-04-16,,4,0,0,0,,0,0,2,0,0,2,2,,No Report
+Finland,European Region of WHO,Northern Europe,2017,16,2017-04-17,2017-04-23,,2,0,0,1,,0,1,1,0,0,1,2,,No Report
+Finland,European Region of WHO,Northern Europe,2017,17,2017-04-24,2017-04-30,,5,0,0,0,,0,0,0,0,0,0,0,,No Report
+Finland,European Region of WHO,Northern Europe,2017,18,2017-05-01,2017-05-07,,3,0,0,0,,0,0,1,0,0,1,1,,No Report
+Finland,European Region of WHO,Northern Europe,2017,19,2017-05-08,2017-05-14,,4,0,0,0,,0,0,2,0,0,2,2,,No Report
+Finland,European Region of WHO,Northern Europe,2017,20,2017-05-15,2017-05-21,,3,0,0,0,,0,0,0,0,0,0,0,,No Report
+Finland,European Region of WHO,Northern Europe,2017,21,2017-05-22,2017-05-28,,2,0,0,0,,0,0,0,0,0,0,0,,No Report
+Finland,European Region of WHO,Northern Europe,2017,22,2017-05-29,2017-06-04,,1,0,0,0,,0,0,0,0,0,0,0,,No Report
+Finland,European Region of WHO,Northern Europe,2017,23,2017-06-05,2017-06-11,,0,0,0,0,,0,0,0,0,0,0,0,,No Report
+Finland,European Region of WHO,Northern Europe,2017,24,2017-06-12,2017-06-18,,1,0,0,0,,0,0,0,0,0,0,0,,No Report
+Finland,European Region of WHO,Northern Europe,2017,25,2017-06-19,2017-06-25,,0,0,0,0,,0,0,0,0,0,0,0,,No Report
+Finland,European Region of WHO,Northern Europe,2017,26,2017-06-26,2017-07-02,,1,0,0,0,,0,0,0,0,0,0,0,,No Report
+Finland,European Region of WHO,Northern Europe,2017,27,2017-07-03,2017-07-09,,1,0,0,0,,0,0,0,0,0,0,0,,No Report
+Finland,European Region of WHO,Northern Europe,2017,28,2017-07-10,2017-07-16,,0,0,0,0,,0,0,0,0,0,0,0,,No Report
+Finland,European Region of WHO,Northern Europe,2017,29,2017-07-17,2017-07-23,,2,0,0,0,,0,0,0,0,0,0,0,,No Report
+Finland,European Region of WHO,Northern Europe,2017,30,2017-07-24,2017-07-30,,1,0,0,0,,0,0,0,0,0,0,0,,No Report
+Finland,European Region of WHO,Northern Europe,2017,31,2017-07-31,2017-08-06,,1,0,0,0,,0,0,0,0,0,0,0,,No Report
+Finland,European Region of WHO,Northern Europe,2017,32,2017-08-07,2017-08-13,,0,0,0,0,,0,0,0,0,0,0,0,,No Report
+Finland,European Region of WHO,Northern Europe,2017,33,2017-08-14,2017-08-20,,0,0,0,0,,0,0,0,0,0,0,0,,No Report
+Finland,European Region of WHO,Northern Europe,2017,34,2017-08-21,2017-08-27,,0,0,0,0,,0,0,0,0,0,0,0,,No Report
+Finland,European Region of WHO,Northern Europe,2017,35,2017-08-28,2017-09-03,,4,0,0,1,,0,1,0,0,0,0,1,,No Report
+Finland,European Region of WHO,Northern Europe,2017,36,2017-09-04,2017-09-10,,6,0,0,0,,0,0,0,0,0,0,0,,No Report
+Finland,European Region of WHO,Northern Europe,2017,37,2017-09-11,2017-09-17,,6,0,1,0,,0,1,2,0,0,2,3,,No Report
+Finland,European Region of WHO,Northern Europe,2017,38,2017-09-18,2017-09-24,,11,0,0,9,,0,9,0,0,0,0,9,,No Report
+Finland,European Region of WHO,Northern Europe,2017,39,2017-09-25,2017-10-01,,4,0,0,1,,0,1,0,0,0,0,1,,No Report
+Finland,European Region of WHO,Northern Europe,2017,40,2017-10-02,2017-10-08,,5,0,0,1,,0,1,0,0,0,0,1,,No Report
+Finland,European Region of WHO,Northern Europe,2017,41,2017-10-09,2017-10-15,,7,0,0,1,,0,1,0,0,0,0,1,,No Report
+Finland,European Region of WHO,Northern Europe,2017,42,2017-10-16,2017-10-22,,2,0,0,0,,0,0,0,0,0,0,0,,No Report
+Finland,European Region of WHO,Northern Europe,2017,43,2017-10-23,2017-10-29,,2,0,0,1,,0,1,0,0,0,0,1,,No Report
+Finland,European Region of WHO,Northern Europe,2017,44,2017-10-30,2017-11-05,,4,0,0,1,,0,1,0,0,0,0,1,,No Report
+Finland,European Region of WHO,Northern Europe,2017,45,2017-11-06,2017-11-12,,3,0,0,1,,0,1,1,0,0,1,2,,No Report
+Finland,European Region of WHO,Northern Europe,2017,46,2017-11-13,2017-11-19,,9,0,0,0,,0,0,3,2,0,5,5,,No Report
+Finland,European Region of WHO,Northern Europe,2017,47,2017-11-20,2017-11-26,,9,0,0,1,,0,1,5,0,0,5,6,,No Report
+Finland,European Region of WHO,Northern Europe,2017,48,2017-11-27,2017-12-03,,11,0,0,6,,0,6,3,1,0,4,10,,No Report
+Finland,European Region of WHO,Northern Europe,2017,49,2017-12-04,2017-12-10,,12,0,0,5,,0,5,5,0,0,5,10,,No Report
+Finland,European Region of WHO,Northern Europe,2017,50,2017-12-11,2017-12-17,,11,0,0,0,,0,0,5,0,0,5,5,,No Report
+Finland,European Region of WHO,Northern Europe,2017,51,2017-12-18,2017-12-24,,8,0,0,2,,0,2,5,0,0,5,7,,No Report
+Finland,European Region of WHO,Northern Europe,2017,52,2017-12-25,2017-12-31,,8,0,0,1,,0,1,3,1,0,4,5,,No Report
+Finland,European Region of WHO,Northern Europe,2018,1,2018-01-01,2018-01-07,,28,0,0,3,,0,3,10,3,0,13,16,,No Report
+
